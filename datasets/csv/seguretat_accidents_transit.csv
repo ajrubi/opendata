@@ -1,2 +1,4 @@
 "ID","DATA_ACCIDENT",ANY_ACCIDENT,MES_ACCIDENT,"DIA_SETMANA_ACCIDENT","HORA_ACCIDENT","TIPUS_ACCIDENT",N_IMPLICATS,"ZONA","CODI_ENS","NOM_ENS","TRAM_HORARI",LATITUD,LONGITUD,"PUNT_ACCIDENT"
 "1/2025","2025-01-01","2025","1","Dimecres","16:15:00","Xoc sense sortida de via","2","Zona Nord","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.499431","2.037986","POINT (419706.442583 4594647.71569)"
+"3/2025","2025-01-02","2025","1","Dijous","12:15:00","Envestida","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.464787","2.008454","POINT (417197.511 4590829.4)"
+"2/2025","2025-01-02","2025","1","Dijous","13:25:00","Fregament negatiu (mateix sentit)","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.507331","2.039546","POINT (419846.433658 4595523.368106)"
