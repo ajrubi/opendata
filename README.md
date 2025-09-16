@@ -23,6 +23,30 @@ El nostre objectiu és proporcionar una plataforma centralitzada i accessible pe
 
 Les categories utilitzades en aquest repositori són les mateixes que al portal de Dades Obertes, per garantir homogeneïtat:
 
+<table>
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/flask-solid-full-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/icons/flask-solid-full-light.svg">
+        <img src="assets/icons/flask-solid-full-light.svg" alt="Ciència i Tecnologia" width="48">
+      </picture>
+      <br><b>Ciència i Tecnologia</b><br>
+      <sub>Dades sobre recerca, innovació i aplicacions tecnològiques.</sub>
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/gift-solid-full-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/icons/gift-solid-full-light.svg">
+        <img src="assets/icons/gift-solid-full-light.svg" alt="Comerç" width="48">
+      </picture>
+      <br><b>Comerç</b><br>
+      <sub>Activitat comercial, mercats i tendències de consum.</sub>
+    </td>
+  </tr>
+</table>
+
+
 - ![light](assets/icons/flask-solid-full-light.svg#gh-light-mode-only) ![dark](assets/icons/flask-solid-full-dark.svg#gh-dark-mode-only) **[Ciència i Tecnologia](datasets/csv/ciencia-i-tecnologia/)**: Dades relacionades amb investigacions científiques, desenvolupament tecnològic, innovació i aplicacions tecnològiques que impulsen el progrés en diversos camps.
 - <img src="assets/icons/gift-solid-full.svg" width="20" alt="Comerç"> **Comerç**: Informació sobre activitats comercials, mercats, tendències de consum, i intercanvi de béns i serveis a nivell local i internacional.
 - <img src="assets/icons/music-solid-full.svg" width="20" alt="Cultura i oci"> **Cultura i oci**: Dades sobre activitats culturals, esdeveniments d'oci, patrimoni cultural, arts escèniques, música, literatura i altres formes d'expressió artística.
