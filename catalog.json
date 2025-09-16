@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "name": "Ciència i Tecnologia",
+      "slug": "ciencia-i-tecnologia"
+    },
+    {
+      "name": "Comerç",
+      "slug": "comerc"
+    },
+    {
+      "name": "Cultura i oci",
+      "slug": "cultura-i-oci"
+    },
+    {
+      "name": "Demografia",
+      "slug": "demografia"
+    },
+    {
+      "name": "Economia",
+      "slug": "economia"
+    },
+    {
+      "name": "Educació",
+      "slug": "educacio"
+    },
+    {
+      "name": "Energia",
+      "slug": "energia"
+    },
+    {
+      "name": "Esport",
+      "slug": "esport"
+    },
+    {
+      "name": "Habitatge",
+      "slug": "habitatge"
+    },
+    {
+      "name": "Hisenda",
+      "slug": "hisenda"
+    },
+    {
+      "name": "Indústria",
+      "slug": "industria"
+    },
+    {
+      "name": "Legislació i justícia",
+      "slug": "legislacio-i-justicia"
+    },
+    {
+      "name": "Medi Ambient",
+      "slug": "medi-ambient"
+    },
+    {
+      "name": "Medi Rural i Pesca",
+      "slug": "medi-rural-i-pesca"
+    },
+    {
+      "name": "Salut",
+      "slug": "salut"
+    },
+    {
+      "name": "Sector Públic",
+      "slug": "sector-public"
+    },
+    {
+      "name": "Seguretat",
+      "slug": "seguretat"
+    },
+    {
+      "name": "Societat i benestar",
+      "slug": "societat-i-benestar"
+    },
+    {
+      "name": "Transport",
+      "slug": "transport"
+    },
+    {
+      "name": "Treball",
+      "slug": "treball"
+    },
+    {
+      "name": "Turisme",
+      "slug": "turisme"
+    },
+    {
+      "name": "Urbanisme i infraestructures",
+      "slug": "urbanisme-i-infraestructures"
+    }
+  ],
+  "datasets": [
+    {
+      "category": "hisenda",
+      "name": "pressupost_municipal_2025",
+      "title": "Pressupost municipal 2025",
+      "description": "Execució del pressupost i crèdits inicials",
+      "formats": {
+        "csv": "datasets/csv/hisenda/pressupost_municipal_2025.csv",
+        "json": null
+      },
+      "license": "CC BY-NC 4.0",
+      "updated": null
+    }
+  ],
+  "pbix": [
+    {
+      "category": "hisenda",
+      "name": "pressupost_municipal",
+      "title": "Pressupost municipal",
+      "description": "Quadre de comandament amb execució i evolució del pressupost",
+      "path": "pbix/hisenda/pressupost_municipal.pbix"
+    }
+  ]
+}
