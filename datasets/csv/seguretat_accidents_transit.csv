@@ -1,3 +1,4 @@
 "ID","DATA_ACCIDENT",ANY_ACCIDENT,MES_ACCIDENT,"DIA_SETMANA_ACCIDENT","HORA_ACCIDENT","TIPUS_ACCIDENT",N_IMPLICATS,"ZONA","CODI_ENS","NOM_ENS","TRAM_HORARI",LATITUD,LONGITUD,"PUNT_ACCIDENT"
 "2/2026","2026-01-01","2026","1","Dijous","04:55:00","Sortida de via amb xoc o col·lisió","2","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4904","2.029793","POINT (419011.358 4593652.74)"
 "3/2026","2026-01-03","2026","1","Dissabte","17:35:00","Xoc sense sortida de via","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.499293","2.032063","POINT (419211.942 4594637.92)"
+"4/2026","2026-01-05","2026","1","Dilluns","10:54:00","Xoc sense sortida de via","1","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.50625","2.009994","POINT (417378.776 4595431.19)"
