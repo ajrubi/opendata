@@ -8,218 +8,157 @@
 "7/2012","2012-01-10","2012","1","Dimarts","11:20:00","Col·lisió frontal","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "8/2012","2012-01-10","2012","1","Dimarts","15:00:00","Encalç","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "10/2012","2012-01-11","2012","1","Dimecres","11:40:00","Atropellament","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4849517677","2.0320292147","MULTILINESTRING ((419191.31722478836 4593045.87530558, 419191.2810330511 4593045.6786074415))"
-"10/2012","2012-01-11","2012","1","Dimecres","11:40:00","Atropellament","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "9/2012","2012-01-11","2012","1","Dimecres","13:30:00","Fregament positiu (diferent sentit)","2","Can Solà","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5322301834","2.0076460326","MULTILINESTRING ((417215.8661158825 4598317.80045813, 417216.05072117667 4598317.723510841))"
-"9/2012","2012-01-11","2012","1","Dimecres","13:30:00","Fregament positiu (diferent sentit)","2","Can Solà","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "11/2012","2012-01-12","2012","1","Dijous","08:00:00","Atropellament","2","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "12/2012","2012-01-13","2012","1","Divendres","11:40:00","Fregament negatiu (mateix sentit)","3","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "15/2012","2012-01-14","2012","1","Dissabte","13:25:00","Atropellament","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.491782482","2.0355897708","MULTILINESTRING ((419496.9343209908 4593800.8798749605, 419497.073761321 4593800.736499949))"
-"15/2012","2012-01-14","2012","1","Dissabte","13:25:00","Atropellament","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "17/2012","2012-01-14","2012","1","Dissabte","22:30:00","Fregament negatiu (mateix sentit)","3","Ca n'Oriol","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4982074223","2.0412054216","MULTILINESTRING ((419973.5786170104 4594508.9011826515, 419973.7785560139 4594508.896243536))"
-"17/2012","2012-01-14","2012","1","Dissabte","22:30:00","Fregament negatiu (mateix sentit)","3","Ca n'Oriol","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "14/2012","2012-01-15","2012","1","Diumenge","15:36:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "16/2012","2012-01-16","2012","1","Dilluns","12:15:00","Encalç","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "13/2012","2012-01-16","2012","1","Dilluns","19:25:00","Envestida","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "18/2012","2012-01-18","2012","1","Dimecres","13:45:00","Envestida","2","Els Avets","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "19/2012","2012-01-18","2012","1","Dimecres","14:25:00","Envestida","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.49166881","2.0385475435","MULTILINESTRING ((419743.7662289924 4593785.338918688, 419743.76010532316 4593785.538824917))"
-"19/2012","2012-01-18","2012","1","Dimecres","14:25:00","Envestida","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "20/2012","2012-01-19","2012","1","Dijous","08:55:00","Altres (incendi, explosió, esllavissada, etc.)","1","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "21/2012","2012-01-19","2012","1","Dijous","14:50:00","Fregament positiu (diferent sentit)","2","El Mercat","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4886319837","2.0368618523","MULTILINESTRING ((419599.2061002694 4593449.898898545, 419599.3843003592 4593449.80809806))"
-"21/2012","2012-01-19","2012","1","Dijous","14:50:00","Fregament positiu (diferent sentit)","2","El Mercat","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "22/2012","2012-01-19","2012","1","Dijous","17:00:00","Fregament positiu (diferent sentit)","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "24/2012","2012-01-20","2012","1","Divendres","08:20:00","Fregament negatiu (mateix sentit)","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "23/2012","2012-01-20","2012","1","Divendres","15:15:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "27/2012","2012-01-21","2012","1","Dissabte","11:15:00","Encalç","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "25/2012","2012-01-21","2012","1","Dissabte","11:45:00","Envestida","2","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "30/2012","2012-01-22","2012","1","Diumenge","09:48:00","Altres (incendi, explosió, esllavissada, etc.)","2","Sector Z","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4897693726","2.0423681489","MULTILINESTRING ((420060.44804976875 4593570.992742251, 420060.25726635836 4593571.0527563365))"
-"30/2012","2012-01-22","2012","1","Diumenge","09:48:00","Altres (incendi, explosió, esllavissada, etc.)","2","Sector Z","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "26/2012","2012-01-22","2012","1","Diumenge","13:30:00","Fregament negatiu (mateix sentit)","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4877418785","2.0388691317","MULTILINESTRING ((419765.85213198775 4593349.125139941, 419765.6723759836 4593349.212819921))"
-"26/2012","2012-01-22","2012","1","Diumenge","13:30:00","Fregament negatiu (mateix sentit)","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "28/2012","2012-01-22","2012","1","Diumenge","19:32:00","Envestida","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "29/2012","2012-01-23","2012","1","Dilluns","08:25:00","Atropellament","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "39/2012","2012-01-23","2012","1","Dilluns","11:25:00","Atropellament","1","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "31/2012","2012-01-24","2012","1","Dimarts","13:58:00","Envestida","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5048494369","2.0360514627","MULTILINESTRING ((419551.656371181 4595251.006413845, 419551.7778615748 4595251.165285127))"
-"31/2012","2012-01-24","2012","1","Dimarts","13:58:00","Envestida","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "32/2012","2012-01-24","2012","1","Dimarts","18:30:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "33/2012","2012-01-25","2012","1","Dimecres","10:20:00","Fregament negatiu (mateix sentit)","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4869224578","2.0371197459","MULTILINESTRING ((419618.62160026917 4593259.866098545, 419618.7998003588 4593259.775298061))"
-"33/2012","2012-01-25","2012","1","Dimecres","10:20:00","Fregament negatiu (mateix sentit)","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "34/2012","2012-01-25","2012","1","Dimecres","20:00:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "35/2012","2012-01-26","2012","1","Dijous","16:15:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "36/2012","2012-01-27","2012","1","Divendres","13:00:00","Fregament negatiu (mateix sentit)","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "37/2012","2012-01-28","2012","1","Dissabte","10:15:00","Col·lisió frontal","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4741889365","2.0311625954","MULTILINESTRING ((419105.6664662536 4591851.686061168, 419105.4665883382 4591851.693048223))"
-"37/2012","2012-01-28","2012","1","Dissabte","10:15:00","Col·lisió frontal","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "48/2012","2012-01-29","2012","1","Diumenge","11:45:00","Altres (incendi, explosió, esllavissada, etc.)","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "41/2012","2012-01-29","2012","1","Diumenge","16:30:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "40/2012","2012-01-29","2012","1","Diumenge","19:40:00","Envestida","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4974374776","2.0385181267","MULTILINESTRING ((419748.42661372863 4594426.009354465, 419748.4311516383 4594425.809405952))"
-"40/2012","2012-01-29","2012","1","Diumenge","19:40:00","Envestida","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "38/2012","2012-01-30","2012","1","Dilluns","06:30:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "42/2012","2012-01-31","2012","1","Dimarts","14:00:00","Xoc sense sortida de via","2","Can Barceló - Vallespark","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.5298705548","1.9918286813","MULTILINESTRING ((415893.305110329 4598070.99268749, 415893.43871377216 4598071.141516654))"
-"42/2012","2012-01-31","2012","1","Dimarts","14:00:00","Xoc sense sortida de via","2","Can Barceló - Vallespark","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "43/2012","2012-01-31","2012","1","Dimarts","16:55:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "44/2012","2012-02-01","2012","2","Dimecres","09:11:00","Encalç","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "45/2012","2012-02-01","2012","2","Dimecres","14:45:00","Xoc sense sortida de via","5","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4978868094","2.0317379771","MULTILINESTRING ((419182.97121997457 4594482.144100012, 419183.1591599661 4594482.075700013))"
-"45/2012","2012-02-01","2012","2","Dimecres","14:45:00","Xoc sense sortida de via","5","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "46/2012","2012-02-01","2012","2","Dimecres","18:50:00","Sortida de via amb caiguda, bolcada, xoc","1","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "47/2012","2012-02-01","2012","2","Dimecres","19:45:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "49/2012","2012-02-03","2012","2","Divendres","07:00:00","Fregament positiu (diferent sentit)","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "50/2012","2012-02-03","2012","2","Divendres","13:30:00","Envestida","2","Sector Z","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "53/2012","2012-02-03","2012","2","Divendres","16:10:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4899786207","2.0313876537","MULTILINESTRING ((419143.9900000002 4593604.562300001, 419143.9900000002 4593604.3623))"
-"53/2012","2012-02-03","2012","2","Divendres","16:10:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "54/2012","2012-02-03","2012","2","Divendres","18:30:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "55/2012","2012-02-04","2012","2","Dissabte","10:40:00","Envestida","2","25 de Setembre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "58/2012","2012-02-05","2012","2","Diumenge","07:15:00","Xoc sense sortida de via","1","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5104532495","2.0343330794","MULTILINESTRING ((419415.2512729507 4595874.928618009, 419415.2566639343 4595874.72869068))"
-"58/2012","2012-02-05","2012","2","Diumenge","07:15:00","Xoc sense sortida de via","1","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "57/2012","2012-02-06","2012","2","Dilluns","06:50:00","Xoc sense sortida de via","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4964797784","2.0319315425","MULTILINESTRING ((419197.47954627045 4594325.818661558, 419197.46559502726 4594325.619148743))"
-"57/2012","2012-02-06","2012","2","Dilluns","06:50:00","Xoc sense sortida de via","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "59/2012","2012-02-06","2012","2","Dilluns","12:45:00","Xoc sense sortida de via","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4981420589","2.0393532041","MULTILINESTRING ((419819.09979108925 4594503.35625462, 419818.8998214524 4594503.359739493))"
-"59/2012","2012-02-06","2012","2","Dilluns","12:45:00","Xoc sense sortida de via","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "56/2012","2012-02-06","2012","2","Dilluns","20:35:00","Xoc sense sortida de via","1","El Mercat","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4872126168","2.0393974881","MULTILINESTRING ((419809.19939076266 4593290.018315677, 419809.2341210168 4593289.821354235))"
-"56/2012","2012-02-06","2012","2","Dilluns","20:35:00","Xoc sense sortida de via","1","El Mercat","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "63/2012","2012-02-07","2012","2","Dimarts","12:10:00","Envestida","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "60/2012","2012-02-07","2012","2","Dimarts","13:30:00","Altres (incendi, explosió, esllavissada, etc.)","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4935770472","2.031558749","MULTILINESTRING ((419162.74139154656 4594003.7032782445, 419162.75185539544 4594003.903004328))"
-"60/2012","2012-02-07","2012","2","Dimarts","13:30:00","Altres (incendi, explosió, esllavissada, etc.)","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "61/2012","2012-02-07","2012","2","Dimarts","18:00:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "62/2012","2012-02-08","2012","2","Dimecres","17:45:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "64/2012","2012-02-09","2012","2","Dijous","11:35:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5015443778","2.0359268516","MULTILINESTRING ((419537.24922119046 4594884.367467312, 419537.20199492056 4594884.173123083))"
-"64/2012","2012-02-09","2012","2","Dijous","11:35:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "65/2012","2012-02-09","2012","2","Dijous","13:30:00","Encalç","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5035659483","2.0347303519","MULTILINESTRING ((419439.80708097987 4595109.743000393, 419439.93064130645 4595109.90026719))"
-"65/2012","2012-02-09","2012","2","Dijous","13:30:00","Encalç","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "66/2012","2012-02-09","2012","2","Dijous","16:15:00","Fregament negatiu (mateix sentit)","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4981367535","2.0322492292","MULTILINESTRING ((419226.0155717833 4594509.286777412, 419226.08129571093 4594509.47566988))"
-"66/2012","2012-02-09","2012","2","Dijous","16:15:00","Fregament negatiu (mateix sentit)","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "67/2012","2012-02-10","2012","2","Divendres","13:00:00","Encalç","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4848049951","2.0319945302","MULTILINESTRING ((419188.2393259562 4593029.612879105, 419188.20300127496 4593029.416205471))"
-"67/2012","2012-02-10","2012","2","Divendres","13:00:00","Encalç","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "69/2012","2012-02-11","2012","2","Dissabte","01:15:00","Sortida de via amb caiguda, bolcada, xoc","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "70/2012","2012-02-11","2012","2","Dissabte","12:40:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "68/2012","2012-02-12","2012","2","Diumenge","01:15:00","Xoc sense sortida de via","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "71/2012","2012-02-13","2012","2","Dilluns","12:00:00","Encalç","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4649075286","2.0109744043","MULTILINESTRING ((417408.2238804143 4590840.348745259, 417408.0251072191 4590840.326627012))"
-"71/2012","2012-02-13","2012","2","Dilluns","12:00:00","Encalç","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "74/2012","2012-02-14","2012","2","Dimarts","11:50:00","Encalç","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4886564698","2.0345808272","MULTILINESTRING ((419408.8545675998 4593454.610797208, 419408.9618901332 4593454.7795629455))"
-"74/2012","2012-02-14","2012","2","Dimarts","11:50:00","Encalç","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "72/2012","2012-02-15","2012","2","Dimecres","08:05:00","Encalç","2","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "73/2012","2012-02-15","2012","2","Dimecres","16:00:00","Xoc sense sortida de via","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.5004106242","2.0360702874","MULTILINESTRING ((419547.69715310377 4594758.2920996435, 419547.8903374715 4594758.240332858))"
-"73/2012","2012-02-15","2012","2","Dimecres","16:00:00","Xoc sense sortida de via","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "77/2012","2012-02-18","2012","2","Dissabte","09:08:00","Fregament negatiu (mateix sentit)","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4982247973","2.0394135434","MULTILINESTRING ((419824.03819250024 4594512.4896427225, 419824.23815666704 4594512.485856965))"
-"77/2012","2012-02-18","2012","2","Dissabte","09:08:00","Fregament negatiu (mateix sentit)","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "76/2012","2012-02-18","2012","2","Dissabte","11:15:00","Sortida de via amb caiguda, bolcada, xoc","1","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4741889365","2.0311625954","MULTILINESTRING ((419105.6664662536 4591851.686061168, 419105.4665883382 4591851.693048223))"
-"76/2012","2012-02-18","2012","2","Dissabte","11:15:00","Sortida de via amb caiguda, bolcada, xoc","1","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "75/2012","2012-02-18","2012","2","Dissabte","17:45:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4933327352","2.0302144153","MULTILINESTRING ((419050.2067458263 4593977.83918881, 419050.24832776823 4593978.034818416))"
-"75/2012","2012-02-18","2012","2","Dissabte","17:45:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "78/2012","2012-02-19","2012","2","Diumenge","00:10:00","Envestida","3","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "79/2012","2012-02-23","2012","2","Dijous","05:15:00","Xoc sense sortida de via","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "80/2012","2012-02-25","2012","2","Dissabte","06:25:00","Envestida","0","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "81/2012","2012-02-25","2012","2","Dissabte","06:25:00","Envestida","0","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "82/2012","2012-02-25","2012","2","Dissabte","06:25:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "84/2012","2012-02-25","2012","2","Dissabte","09:00:00","Xoc sense sortida de via","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.487342032","2.0274521081","MULTILINESTRING ((418812.191529722 4593315.335340919, 418812.14863962936 4593315.530687893))"
-"84/2012","2012-02-25","2012","2","Dissabte","09:00:00","Xoc sense sortida de via","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "83/2012","2012-02-25","2012","2","Dissabte","14:30:00","Xoc sense sortida de via","1","Can Rosés","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.5036402015","2.0446248606","MULTILINESTRING ((420265.8237572917 4595108.962288906, 420265.6804763888 4595108.822751877))"
-"83/2012","2012-02-25","2012","2","Dissabte","14:30:00","Xoc sense sortida de via","1","Can Rosés","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "85/2012","2012-02-27","2012","2","Dilluns","07:30:00","Xoc sense sortida de via","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.470152452","2.0196260271","MULTILINESTRING ((418137.12014453963 4591414.442757332, 418137.30855938623 4591414.375676445))"
-"85/2012","2012-02-27","2012","2","Dilluns","07:30:00","Xoc sense sortida de via","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "86/2012","2012-02-28","2012","2","Dimarts","05:30:00","Col·lisió frontal","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "87/2012","2012-02-28","2012","2","Dimarts","09:40:00","Envestida","3","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "89/2012","2012-02-29","2012","2","Dimecres","14:05:00","Xoc sense sortida de via","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4914228633","2.0377322193","MULTILINESTRING ((419675.4908255087 4593758.848392787, 419675.30956734496 4593758.932923718))"
-"89/2012","2012-02-29","2012","2","Dimecres","14:05:00","Xoc sense sortida de via","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "88/2012","2012-02-29","2012","2","Dimecres","18:00:00","Encalç","1","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "90/2012","2012-03-01","2012","3","Dijous","07:00:00","Fregament negatiu (mateix sentit)","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "91/2012","2012-03-02","2012","3","Divendres","09:00:00","Xoc sense sortida de via","1","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5000678796","2.0406056427","MULTILINESTRING ((419925.9620303726 4594716.088782433, 419925.8560404966 4594715.9191765785))"
-"91/2012","2012-03-02","2012","3","Divendres","09:00:00","Xoc sense sortida de via","1","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "92/2012","2012-03-02","2012","3","Divendres","13:25:00","Xoc sense sortida de via","2","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "93/2012","2012-03-02","2012","3","Divendres","17:22:00","Col·lisió frontal","2","Can Ximelis - D4","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "94/2012","2012-03-02","2012","3","Divendres","22:15:00","Fregament negatiu (mateix sentit)","2","Can Fatjó","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4906635233","2.0273294556","MULTILINESTRING ((418806.009092172 4593684.231306631, 418806.148022896 4593684.375175509))"
-"94/2012","2012-03-02","2012","3","Divendres","22:15:00","Fregament negatiu (mateix sentit)","2","Can Fatjó","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "95/2012","2012-03-05","2012","3","Dilluns","09:15:00","Encalç","2","Ca n'Alzamora","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4794664698","2.0316769541","MULTILINESTRING ((419154.97664642864 4592437.150189878, 419155.16969523806 4592437.097919838))"
-"95/2012","2012-03-05","2012","3","Dilluns","09:15:00","Encalç","2","Ca n'Alzamora","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "96/2012","2012-03-06","2012","3","Dimarts","14:05:00","Encalç","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4914572995","2.038561448","MULTILINESTRING ((419744.66582899244 4593761.8439186895, 419744.6597053233 4593762.04382492))"
-"96/2012","2012-03-06","2012","3","Dimarts","14:05:00","Encalç","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "97/2012","2012-03-06","2012","3","Dimarts","17:20:00","Atropellament","3","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "98/2012","2012-03-07","2012","3","Dimecres","13:00:00","Xoc sense sortida de via","3","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "99/2012","2012-03-08","2012","3","Dijous","07:45:00","Fregament positiu (diferent sentit)","2","Can Solà","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5384794102","1.9997990387","MULTILINESTRING ((416569.4037141385 4599019.016619493, 416569.3383188514 4599019.20562599))"
-"99/2012","2012-03-08","2012","3","Dijous","07:45:00","Fregament positiu (diferent sentit)","2","Can Solà","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "100/2012","2012-03-09","2012","3","Divendres","07:10:00","Col·lisió frontal","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "101/2012","2012-03-09","2012","3","Divendres","17:30:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "102/2012","2012-03-10","2012","3","Dissabte","16:05:00","Fregament negatiu (mateix sentit)","2","Can Rosés","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "103/2012","2012-03-10","2012","3","Dissabte","16:50:00","Encalç","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4944288535","2.0368351275","MULTILINESTRING ((419604.1467180794 4594093.400793385, 419604.3181574393 4594093.50379118))"
-"103/2012","2012-03-10","2012","3","Dissabte","16:50:00","Encalç","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "104/2012","2012-03-11","2012","3","Diumenge","21:55:00","Encalç","2","Sant Jordi Parc","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4898840139","2.0228252189","MULTILINESTRING ((418429.0109212719 4593601.963294427, 418429.1967283626 4593602.037292568))"
-"104/2012","2012-03-11","2012","3","Diumenge","21:55:00","Encalç","2","Sant Jordi Parc","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "105/2012","2012-03-13","2012","3","Dimarts","07:00:00","Múltiple","3","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "106/2012","2012-03-14","2012","3","Dimecres","16:57:00","Col·lisió frontal","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "107/2012","2012-03-14","2012","3","Dimecres","18:15:00","Encalç","3","Can Rosés","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.504841428","2.0365172497","MULTILINESTRING ((419590.6203362894 4595249.671467251, 419590.54138171894 4595249.855223002))"
-"107/2012","2012-03-14","2012","3","Dimecres","18:15:00","Encalç","3","Can Rosés","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "108/2012","2012-03-14","2012","3","Dimecres","18:30:00","Encalç","2","Ca n'Alzamora","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "113/2012","2012-03-16","2012","3","Divendres","12:30:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "109/2012","2012-03-16","2012","3","Divendres","20:15:00","Sortida de via amb caiguda, bolcada, xoc","3","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "110/2012","2012-03-17","2012","3","Dissabte","05:34:00","Xoc sense sortida de via","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "111/2012","2012-03-17","2012","3","Dissabte","10:30:00","Envestida","2","Sector Z","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "114/2012","2012-03-17","2012","3","Dissabte","18:30:00","Xoc sense sortida de via","4","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4973632049","2.0431431214","MULTILINESTRING ((420134.27683612384 4594413.359348263, 420134.4720148317 4594413.402997685))"
-"114/2012","2012-03-17","2012","3","Dissabte","18:30:00","Xoc sense sortida de via","4","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "112/2012","2012-03-18","2012","3","Diumenge","14:40:00","Envestida","2","Can Serrafossà - La Perla","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "115/2012","2012-03-18","2012","3","Diumenge","16:00:00","Encalç","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4993368979","2.0443264261","MULTILINESTRING ((420235.6467261102 4594631.354170504, 420235.4812014804 4594631.46642734))"
-"115/2012","2012-03-18","2012","3","Diumenge","16:00:00","Encalç","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "116/2012","2012-03-18","2012","3","Diumenge","16:30:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4914964685","2.0321387547","MULTILINESTRING ((419208.47648649587 4593772.285017956, 419208.6750819946 4593772.261357272))"
-"116/2012","2012-03-18","2012","3","Diumenge","16:30:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "117/2012","2012-03-19","2012","3","Dilluns","07:10:00","Múltiple","3","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4753391959","2.0309473642","MULTILINESTRING ((419089.0328462706 4591979.69316156, 419089.01889502746 4591979.493648744))"
-"117/2012","2012-03-19","2012","3","Dilluns","07:10:00","Múltiple","3","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "118/2012","2012-03-19","2012","3","Dilluns","19:15:00","Encalç","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "119/2012","2012-03-20","2012","3","Dimarts","09:40:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "123/2012","2012-03-20","2012","3","Dimarts","12:25:00","Altres (incendi, explosió, esllavissada, etc.)","1","Sant Jordi Parc","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "120/2012","2012-03-20","2012","3","Dimarts","13:00:00","Envestida","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "121/2012","2012-03-20","2012","3","Dimarts","14:30:00","Fregament negatiu (mateix sentit)","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4785935086","2.0241710783","MULTILINESTRING ((418527.38581966487 4592347.185444245, 418527.23319288646 4592347.314692326))"
-"121/2012","2012-03-20","2012","3","Dimarts","14:30:00","Fregament negatiu (mateix sentit)","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "122/2012","2012-03-20","2012","3","Dimarts","21:10:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "124/2012","2012-03-21","2012","3","Dimecres","11:51:00","Sortida de via amb caiguda, bolcada, xoc","1","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "125/2012","2012-03-21","2012","3","Dimecres","15:50:00","Xoc sense sortida de via","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "126/2012","2012-03-23","2012","3","Divendres","07:32:00","Fregament negatiu (mateix sentit)","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "127/2012","2012-03-23","2012","3","Divendres","09:00:00","Xoc sense sortida de via","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "128/2012","2012-03-23","2012","3","Divendres","09:53:00","Encalç","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4972665718","2.0377658571","MULTILINESTRING ((419685.487872359 4594407.553901392, 419685.367429812 4594407.713568524))"
-"128/2012","2012-03-23","2012","3","Divendres","09:53:00","Encalç","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "129/2012","2012-03-23","2012","3","Divendres","19:00:00","Xoc sense sortida de via","1","Ca n'Alzamora","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "130/2012","2012-03-26","2012","3","Dilluns","07:50:00","Envestida","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "131/2012","2012-03-26","2012","3","Dilluns","14:00:00","Encalç","3","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "132/2012","2012-03-27","2012","3","Dimarts","17:15:00","Fregament negatiu (mateix sentit)","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4870880645","2.0362168508","MULTILINESTRING ((419543.5861863175 4593279.1352961715, 419543.4957817566 4593278.956894894))"
-"132/2012","2012-03-27","2012","3","Dimarts","17:15:00","Fregament negatiu (mateix sentit)","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "133/2012","2012-03-30","2012","3","Divendres","06:15:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "134/2012","2012-03-30","2012","3","Divendres","13:20:00","Encalç","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "135/2012","2012-03-31","2012","3","Dissabte","12:15:00","Fregament negatiu (mateix sentit)","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4906326024","2.0348338189","MULTILINESTRING ((419432.3905196091 4593673.800057692, 419432.5620261454 4593673.9029435925))"
-"135/2012","2012-03-31","2012","3","Dissabte","12:15:00","Fregament negatiu (mateix sentit)","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "136/2012","2012-04-03","2012","4","Dimarts","19:50:00","Envestida","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4874771706","2.0243254525","MULTILINESTRING ((418551.3575235133 4593333.470638186, 418551.29149801785 4593333.281850914))"
-"136/2012","2012-04-03","2012","4","Dimarts","19:50:00","Envestida","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "137/2012","2012-04-04","2012","4","Dimecres","10:45:00","Fregament negatiu (mateix sentit)","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "138/2012","2012-04-06","2012","4","Divendres","09:09:00","Fregament negatiu (mateix sentit)","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4942739383","2.0353138334","MULTILINESTRING ((419477.05419574946 4594077.769000762, 419477.05786099925 4594077.569034349))"
-"138/2012","2012-04-06","2012","4","Divendres","09:09:00","Fregament negatiu (mateix sentit)","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "139/2012","2012-04-08","2012","4","Diumenge","22:30:00","Sortida de via amb caiguda, bolcada, xoc","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "140/2012","2012-04-10","2012","4","Dimarts","07:35:00","Fregament negatiu (mateix sentit)","2","Can Ximelis - D4","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4958099918","2.007353615","MULTILINESTRING ((417145.1935014435 4594274.694469978, 417145.0638019245 4594274.542226638))"
-"140/2012","2012-04-10","2012","4","Dimarts","07:35:00","Fregament negatiu (mateix sentit)","2","Can Ximelis - D4","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "141/2012","2012-04-10","2012","4","Dimarts","11:20:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "142/2012","2012-04-10","2012","4","Dimarts","18:50:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.5017808275","2.0337906242","MULTILINESTRING ((419359.25060015323 4594912.608107872, 419359.1986335378 4594912.414977162))"
-"142/2012","2012-04-10","2012","4","Dimarts","18:50:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "143/2012","2012-04-10","2012","4","Dimarts","23:00:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "144/2012","2012-04-12","2012","4","Dijous","06:16:00",,"2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "145/2012","2012-04-13","2012","4","Divendres","18:15:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "146/2012","2012-04-15","2012","4","Diumenge","16:55:00","Encalç","3","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4955459106","2.0386124456","MULTILINESTRING ((419753.9673958956 4594215.918124338, 419753.96559452766 4594215.71813245))"
-"146/2012","2012-04-15","2012","4","Diumenge","16:55:00","Encalç","3","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "147/2012","2012-04-16","2012","4","Dilluns","08:05:00","Atropellament","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "148/2012","2012-04-16","2012","4","Dilluns","15:55:00","Encalç","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4870906825","2.0354887467","MULTILINESTRING ((419482.740172295 4593279.916693731, 419482.7828297266 4593280.112091641))"
-"148/2012","2012-04-16","2012","4","Dilluns","15:55:00","Encalç","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "149/2012","2012-04-17","2012","4","Dimarts","18:00:00","Atropellament","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "150/2012","2012-04-17","2012","4","Dimarts","18:45:00","Fregament negatiu (mateix sentit)","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4967933023","2.0309272504","MULTILINESTRING ((419114.01829076244 4594361.367184325, 419114.0530210167 4594361.564145765))"
-"150/2012","2012-04-17","2012","4","Dimarts","18:45:00","Fregament negatiu (mateix sentit)","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "152/2012","2012-04-18","2012","4","Dimecres","11:05:00","Envestida","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "156/2012","2012-04-18","2012","4","Dimecres","17:30:00","Xoc sense sortida de via","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4951171853","2.0363930692","MULTILINESTRING ((419568.09554717416 4594170.237637019, 419568.27409623226 4594170.32774936))"
-"156/2012","2012-04-18","2012","4","Dimecres","17:30:00","Xoc sense sortida de via","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "151/2012","2012-04-19","2012","4","Dijous","13:10:00","Sortida de via amb caiguda, bolcada, xoc","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "153/2012","2012-04-20","2012","4","Divendres","07:00:00","Fregament positiu (diferent sentit)","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4741889365","2.0311625954","MULTILINESTRING ((419105.6664662536 4591851.686061168, 419105.4665883382 4591851.693048223))"
-"153/2012","2012-04-20","2012","4","Divendres","07:00:00","Fregament positiu (diferent sentit)","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "155/2012","2012-04-20","2012","4","Divendres","20:30:00","Encalç","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "154/2012","2012-04-21","2012","4","Dissabte","18:46:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "157/2012","2012-04-23","2012","4","Dilluns","08:00:00","Xoc sense sortida de via","1","Plana de Can Bertran","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "158/2012","2012-04-23","2012","4","Dilluns","09:22:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "160/2012","2012-04-24","2012","4","Dimarts","08:50:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "159/2012","2012-04-24","2012","4","Dimarts","11:59:00","Fregament negatiu (mateix sentit)","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4944589054","2.033427731","MULTILINESTRING ((419319.75624352007 4594099.926533107, 419319.9429580267 4594099.998210809))"
-"159/2012","2012-04-24","2012","4","Dimarts","11:59:00","Fregament negatiu (mateix sentit)","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "161/2012","2012-04-24","2012","4","Dimarts","14:15:00","Envestida","2","Can Rosés","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "162/2012","2012-04-25","2012","4","Dimecres","11:15:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4896657209","2.0287093079","MULTILINESTRING ((418920.01748465264 4593572.331591614, 418920.0209795367 4593572.131622152))"
-"162/2012","2012-04-25","2012","4","Dimecres","11:15:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "164/2012","2012-04-26","2012","4","Dijous","00:00:00","Sortida de via amb caiguda, bolcada, xoc","1","Ca n'Oriol","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "163/2012","2012-04-26","2012","4","Dijous","07:15:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "165/2012","2012-04-26","2012","4","Dijous","14:48:00","Xoc sense sortida de via","1","Can Ximelis - D4","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
@@ -227,9 +166,7 @@
 "167/2012","2012-04-28","2012","4","Dissabte","08:20:00","Xoc sense sortida de via","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "168/2012","2012-04-30","2012","4","Dilluns","08:10:00","Col·lisió frontal","2","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "169/2012","2012-05-01","2012","5","Dimarts","14:15:00","Xoc sense sortida de via","10","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4973968476","2.0310723126","MULTILINESTRING ((419126.86728087085 4594428.240028642, 419126.92197449435 4594428.432404855))"
-"169/2012","2012-05-01","2012","5","Dimarts","14:15:00","Xoc sense sortida de via","10","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "170/2012","2012-05-02","2012","5","Dimecres","16:10:00","Altres (incendi, explosió, esllavissada, etc.)","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.5004598401","2.0324527255","MULTILINESTRING ((419245.88589778414 4594767.0086806305, 419245.9535970457 4594767.196874176))"
-"170/2012","2012-05-02","2012","5","Dimecres","16:10:00","Altres (incendi, explosió, esllavissada, etc.)","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "172/2012","2012-05-03","2012","5","Dijous","05:10:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "171/2012","2012-05-03","2012","5","Dijous","09:35:00","Atropellament","3","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "173/2012","2012-05-03","2012","5","Dijous","16:00:00","Encalç","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
@@ -237,67 +174,48 @@
 "175/2012","2012-05-03","2012","5","Dijous","17:40:00","Fregament negatiu (mateix sentit)","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "176/2012","2012-05-03","2012","5","Dijous","17:50:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "177/2012","2012-05-05","2012","5","Dissabte","07:10:00","Altres (incendi, explosió, esllavissada, etc.)","2","Sant Jordi Parc","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4911499788","2.0206169134","MULTILINESTRING ((418246.29244568787 4593744.714485746, 418246.41212758364 4593744.554247661))"
-"177/2012","2012-05-05","2012","5","Dissabte","07:10:00","Altres (incendi, explosió, esllavissada, etc.)","2","Sant Jordi Parc","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "178/2012","2012-05-05","2012","5","Dissabte","11:30:00","Envestida","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "179/2012","2012-05-05","2012","5","Dissabte","22:30:00","Encalç","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4957245585","2.0393934734","MULTILINESTRING ((419819.4600813256 4594234.986040518, 419819.29827510065 4594234.868487357))"
-"179/2012","2012-05-05","2012","5","Dissabte","22:30:00","Encalç","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "180/2012","2012-05-07","2012","5","Dilluns","14:20:00","Encalç","3","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4935043377","2.0384462404","MULTILINESTRING ((419737.57689515036 4593989.215019613, 419737.5688935337 4593989.414859484))"
-"180/2012","2012-05-07","2012","5","Dilluns","14:20:00","Encalç","3","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "181/2012","2012-05-07","2012","5","Dilluns","20:07:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4957998578","2.0298061277","MULTILINESTRING ((419019.25178088015 4594252.3165546805, 419019.18787450687 4594252.127039575))"
-"181/2012","2012-05-07","2012","5","Dilluns","20:07:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "184/2012","2012-05-10","2012","5","Dijous","17:40:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "183/2012","2012-05-11","2012","5","Divendres","12:10:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4942685959","2.0373708526","MULTILINESTRING ((419648.6528260098 4594075.174564698, 419648.8513346795 4594075.150186264))"
-"183/2012","2012-05-11","2012","5","Divendres","12:10:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "186/2012","2012-05-11","2012","5","Divendres","19:06:00","Xoc sense sortida de via","3","Can Vallhonrat","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "188/2012","2012-05-13","2012","5","Diumenge","06:30:00","Sortida de via amb caiguda, bolcada, xoc","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "182/2012","2012-05-13","2012","5","Diumenge","07:45:00","Col·lisió frontal","2","Can Ximelis - D4","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "187/2012","2012-05-14","2012","5","Dilluns","11:30:00","Encalç","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4944288535","2.0368351275","MULTILINESTRING ((419604.1467180794 4594093.400793385, 419604.3181574393 4594093.50379118))"
-"187/2012","2012-05-14","2012","5","Dilluns","11:30:00","Encalç","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "185/2012","2012-05-14","2012","5","Dilluns","12:46:00","Fregament positiu (diferent sentit)","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4973521106","2.0321898616","MULTILINESTRING ((419220.15399307595 4594422.418146429, 419220.0823241013 4594422.231428571))"
-"185/2012","2012-05-14","2012","5","Dilluns","12:46:00","Fregament positiu (diferent sentit)","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "189/2012","2012-05-14","2012","5","Dilluns","18:00:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "190/2012","2012-05-15","2012","5","Dimarts","16:15:00","Envestida","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "191/2012","2012-05-16","2012","5","Dimecres","15:56:00","Fregament negatiu (mateix sentit)","4","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "192/2012","2012-05-17","2012","5","Dijous","16:00:00","Xoc sense sortida de via","1","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "193/2012","2012-05-19","2012","5","Dissabte","08:50:00","Envestida","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4741889365","2.0311625954","MULTILINESTRING ((419105.6664662536 4591851.686061168, 419105.4665883382 4591851.693048223))"
-"193/2012","2012-05-19","2012","5","Dissabte","08:50:00","Envestida","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "194/2012","2012-05-20","2012","5","Diumenge","04:00:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "195/2012","2012-05-20","2012","5","Diumenge","15:30:00","Altres (incendi, explosió, esllavissada, etc.)","1","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "196/2012","2012-05-20","2012","5","Diumenge","15:30:00","Envestida","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4863370189","2.0339798551","MULTILINESTRING ((419355.8442904352 4593197.649775329, 419355.8824539136 4593197.846100439))"
-"196/2012","2012-05-20","2012","5","Diumenge","15:30:00","Envestida","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "197/2012","2012-05-21","2012","5","Dilluns","08:00:00","Envestida","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4741889365","2.0311625954","MULTILINESTRING ((419105.6664662536 4591851.686061168, 419105.4665883382 4591851.693048223))"
-"197/2012","2012-05-21","2012","5","Dilluns","08:00:00","Envestida","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "198/2012","2012-05-21","2012","5","Dilluns","18:00:00","Col·lisió frontal","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "200/2012","2012-05-22","2012","5","Dimarts","10:45:00","Encalç","3","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "202/2012","2012-05-22","2012","5","Dimarts","17:15:00",,"2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "199/2012","2012-05-22","2012","5","Dimarts","18:10:00","Sortida de via amb caiguda, bolcada, xoc","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "201/2012","2012-05-23","2012","5","Dimecres","12:45:00","Encalç","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "203/2012","2012-05-23","2012","5","Dimecres","19:50:00","Xoc sense sortida de via","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4852138573","2.0367416618","MULTILINESTRING ((419585.07734348124 4593070.391291404, 419584.9928246415 4593070.572555204))"
-"203/2012","2012-05-23","2012","5","Dimecres","19:50:00","Xoc sense sortida de via","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "211/2012","2012-05-24","2012","5","Dijous","13:28:00","Fregament negatiu (mateix sentit)","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.489510259","2.0354279041","MULTILINESTRING ((419480.66679864837 4593548.793885425, 419480.6900981978 4593548.595247232))"
-"211/2012","2012-05-24","2012","5","Dijous","13:28:00","Fregament negatiu (mateix sentit)","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "204/2012","2012-05-24","2012","5","Dijous","16:10:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4926497959","2.0300572768","MULTILINESTRING ((419036.30095658184 4593902.354873363, 419036.21960877563 4593902.172164485))"
-"204/2012","2012-05-24","2012","5","Dijous","16:10:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "205/2012","2012-05-24","2012","5","Dijous","17:45:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "206/2012","2012-05-25","2012","5","Divendres","13:25:00","Envestida","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4882461226","2.0344372045","MULTILINESTRING ((419396.462690986 4593409.3569911895, 419396.3575546481 4593409.186854919))"
-"206/2012","2012-05-25","2012","5","Divendres","13:25:00","Envestida","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "207/2012","2012-05-25","2012","5","Divendres","22:35:00","Xoc sense sortida de via","1","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.5279775592","1.9983977962","MULTILINESTRING ((416439.0652563847 4597854.497326759, 416438.8762085131 4597854.562602346))"
-"207/2012","2012-05-25","2012","5","Divendres","22:35:00","Xoc sense sortida de via","1","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "209/2012","2012-05-26","2012","5","Dissabte","12:05:00","Xoc sense sortida de via","1","Sector Z","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "210/2012","2012-05-26","2012","5","Dissabte","13:00:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "208/2012","2012-05-26","2012","5","Dissabte","21:30:00","Envestida","2","Can Rosés","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "213/2012","2012-05-28","2012","5","Dilluns","05:36:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4905511019","2.0312497641","MULTILINESTRING ((419133.1722904352 4593668.050475329, 419133.21045391366 4593668.24680044))"
-"213/2012","2012-05-28","2012","5","Dilluns","05:36:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "212/2012","2012-05-28","2012","5","Dilluns","15:10:00","Xoc sense sortida de via","1","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "214/2012","2012-05-29","2012","5","Dimarts","10:55:00","Envestida","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "215/2012","2012-05-29","2012","5","Dimarts","19:55:00","Encalç","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4948157961","2.038359038","MULTILINESTRING ((419731.9169011865 4594134.895366689, 419731.90930158197 4594135.0952222515))"
-"215/2012","2012-05-29","2012","5","Dimarts","19:55:00","Encalç","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "216/2012","2012-05-30","2012","5","Dimecres","10:00:00","Envestida","2","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5102863343","2.0332550673","MULTILINESTRING ((419325.08842704963 4595857.20308199, 419325.0830360661 4595857.40300932))"
-"216/2012","2012-05-30","2012","5","Dimecres","10:00:00","Envestida","2","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "217/2012","2012-05-31","2012","5","Dijous","10:25:00","Sortida de via amb caiguda, bolcada, xoc","1","Els Avets","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "218/2012","2012-05-31","2012","5","Dijous","17:25:00","Atropellament","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "219/2012","2012-06-05","2012","6","Dimarts","02:18:00","Sortida de via amb caiguda, bolcada, xoc","1","Can Vallhonrat","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4741889365","2.0311625954","MULTILINESTRING ((419105.6664662536 4591851.686061168, 419105.4665883382 4591851.693048223))"
-"219/2012","2012-06-05","2012","6","Dimarts","02:18:00","Sortida de via amb caiguda, bolcada, xoc","1","Can Vallhonrat","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "220/2012","2012-06-05","2012","6","Dimarts","13:40:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "221/2012","2012-06-06","2012","6","Dimecres","11:45:00","Envestida","2","Sector Z","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "222/2012","2012-06-06","2012","6","Dimecres","17:51:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
@@ -305,41 +223,31 @@
 "224/2012","2012-06-08","2012","6","Divendres","08:15:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "225/2012","2012-06-08","2012","6","Divendres","09:45:00","Col·lisió frontal","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "230/2012","2012-06-08","2012","6","Divendres","19:10:00","Xoc sense sortida de via","1","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.5011070451","2.0473161405","MULTILINESTRING ((420487.21609360963 4594825.266681067, 420487.31609147956 4594825.093474758))"
-"230/2012","2012-06-08","2012","6","Divendres","19:10:00","Xoc sense sortida de via","1","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "227/2012","2012-06-09","2012","6","Dissabte","00:40:00","Múltiple","3","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "226/2012","2012-06-09","2012","6","Dissabte","12:20:00","Sortida de via amb caiguda, bolcada, xoc","1","Can Ximelis - D4","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "228/2012","2012-06-09","2012","6","Dissabte","19:00:00","Xoc sense sortida de via","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4892030342","2.0426363709","MULTILINESTRING ((420082.03120123124 4593507.8007151885, 420082.06290164177 4593507.998186918))"
-"228/2012","2012-06-09","2012","6","Dissabte","19:00:00","Xoc sense sortida de via","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "229/2012","2012-06-09","2012","6","Dissabte","20:45:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "231/2012","2012-06-10","2012","6","Diumenge","12:45:00","Envestida","2","25 de Setembre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "232/2012","2012-06-11","2012","6","Dilluns","13:20:00","Encalç","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "233/2012","2012-06-12","2012","6","Dimarts","10:26:00","Xoc sense sortida de via","3","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4981218537","2.0417319037","MULTILINESTRING ((420017.6168840781 4594498.908561123, 420017.4169787708 4594498.914714832))"
-"233/2012","2012-06-12","2012","6","Dimarts","10:26:00","Xoc sense sortida de via","3","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "234/2012","2012-06-12","2012","6","Dimarts","17:50:00","Atropellament","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4941719911","2.0335792489","MULTILINESTRING ((419332.1863985457 4594068.056599731, 419332.09559806087 4594067.878399641))"
-"234/2012","2012-06-12","2012","6","Dimarts","17:50:00","Atropellament","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "235/2012","2012-06-13","2012","6","Dimecres","12:15:00","Xoc sense sortida de via","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "236/2012","2012-06-15","2012","6","Divendres","11:00:00","Encalç","3","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "237/2012","2012-06-16","2012","6","Dissabte","03:20:00","Xoc sense sortida de via","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "238/2012","2012-06-16","2012","6","Dissabte","10:30:00","Altres (incendi, explosió, esllavissada, etc.)","2","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5157461848","2.0043085568","MULTILINESTRING ((416916.4961061701 4596490.972839753, 416916.40554156026 4596490.794519672))"
-"238/2012","2012-06-16","2012","6","Dissabte","10:30:00","Altres (incendi, explosió, esllavissada, etc.)","2","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "239/2012","2012-06-16","2012","6","Dissabte","19:45:00","Col·lisió frontal","2","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "241/2012","2012-06-18","2012","6","Dilluns","11:00:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "240/2012","2012-06-18","2012","6","Dilluns","11:21:00","Sortida de via amb caiguda, bolcada, xoc","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "242/2012","2012-06-19","2012","6","Dimarts","05:20:00","Fregament negatiu (mateix sentit)","2","El Mercat","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4892399294","2.0346527859","MULTILINESTRING ((419415.56887712644 4593519.476278837, 419415.7078028354 4593519.332405117))"
-"242/2012","2012-06-19","2012","6","Dimarts","05:20:00","Fregament negatiu (mateix sentit)","2","El Mercat","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "243/2012","2012-06-19","2012","6","Dimarts","16:15:00","Xoc sense sortida de via","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "244/2012","2012-06-19","2012","6","Dimarts","17:50:00","Sortida de via amb caiguda, bolcada, xoc","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "245/2012","2012-06-19","2012","6","Dimarts","19:15:00","Fregament negatiu (mateix sentit)","2","Can Rosés","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "246/2012","2012-06-21","2012","6","Dijous","10:10:00","Envestida","2","Plana del Castell","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "247/2012","2012-06-21","2012","6","Dijous","12:55:00","Xoc sense sortida de via","2","Els Avets","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4854976575","2.0208784224","MULTILINESTRING ((418261.16081645084 4593116.806393901, 418260.99338860123 4593116.915791866))"
-"247/2012","2012-06-21","2012","6","Dijous","12:55:00","Xoc sense sortida de via","2","Els Avets","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "248/2012","2012-06-21","2012","6","Dijous","17:00:00","Encalç","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4878609129","2.0345156243","MULTILINESTRING ((419402.568205935 4593366.38711363, 419402.3900079132 4593366.477918171))"
-"248/2012","2012-06-21","2012","6","Dijous","17:00:00","Encalç","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "249/2012","2012-06-22","2012","6","Divendres","06:05:00","Sortida de via amb caiguda, bolcada, xoc","1","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "250/2012","2012-06-22","2012","6","Divendres","07:23:00","Fregament negatiu (mateix sentit)","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4741889365","2.0311625954","MULTILINESTRING ((419105.6664662536 4591851.686061168, 419105.4665883382 4591851.693048223))"
-"250/2012","2012-06-22","2012","6","Divendres","07:23:00","Fregament negatiu (mateix sentit)","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "251/2012","2012-06-22","2012","6","Divendres","17:30:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4948157961","2.038359038","MULTILINESTRING ((419731.9169011865 4594134.895366689, 419731.90930158197 4594135.0952222515))"
-"251/2012","2012-06-22","2012","6","Divendres","17:30:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "252/2012","2012-06-22","2012","6","Divendres","19:55:00","Envestida","2","Sant Jordi Parc","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "253/2012","2012-06-25","2012","6","Dilluns","08:41:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "254/2012","2012-06-25","2012","6","Dilluns","18:30:00","Encalç","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
@@ -347,7 +255,6 @@
 "256/2012","2012-06-26","2012","6","Dimarts","18:15:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "257/2012","2012-06-27","2012","6","Dimecres","12:15:00","Altres (incendi, explosió, esllavissada, etc.)","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "258/2012","2012-06-27","2012","6","Dimecres","13:15:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4870119497","2.0305554194","MULTILINESTRING ((419070.7274888126 4593275.899054173, 419070.9231184169 4593275.857472232))"
-"258/2012","2012-06-27","2012","6","Dimecres","13:15:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "259/2012","2012-06-28","2012","6","Dijous","13:35:00","Col·lisió frontal","2","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "260/2012","2012-06-29","2012","6","Divendres","13:50:00","Encalç","3","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "261/2012","2012-07-01","2012","7","Diumenge","05:50:00","Sortida de via amb caiguda, bolcada, xoc","1","Sector Z","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
@@ -359,90 +266,63 @@
 "268/2012","2012-07-04","2012","7","Dimecres","10:00:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "271/2012","2012-07-05","2012","7","Dijous","09:00:00","Xoc sense sortida de via","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "269/2012","2012-07-05","2012","7","Dijous","17:33:00","Col·lisió frontal","2","Can Solà","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.5325085845","2.0047429504","MULTILINESTRING ((416974.0309339829 4598351.460056744, 416974.2307786438 4598351.45217566))"
-"269/2012","2012-07-05","2012","7","Dijous","17:33:00","Col·lisió frontal","2","Can Solà","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "270/2012","2012-07-05","2012","7","Dijous","20:10:00","Xoc sense sortida de via","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "272/2012","2012-07-06","2012","7","Divendres","14:35:00","Xoc sense sortida de via","1","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4915086008","2.0362609587","MULTILINESTRING ((419552.6585175007 4593769.682929469, 419552.7263566676 4593769.871072626))"
-"272/2012","2012-07-06","2012","7","Divendres","14:35:00","Xoc sense sortida de via","1","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "266/2012","2012-07-06","2012","7","Divendres","16:25:00","Atropellament","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "273/2012","2012-07-07","2012","7","Dissabte","09:55:00","Sortida de via amb caiguda, bolcada, xoc","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "275/2012","2012-07-10","2012","7","Dimarts","17:45:00","Xoc sense sortida de via","1","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.5371043594","1.9906561125","MULTILINESTRING ((415804.8580941628 4598875.3884052895, 415805.003992217 4598875.251607051))"
-"275/2012","2012-07-10","2012","7","Dimarts","17:45:00","Xoc sense sortida de via","1","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "274/2012","2012-07-10","2012","7","Dimarts","19:15:00","Xoc sense sortida de via","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "276/2012","2012-07-12","2012","7","Dijous","11:15:00","Encalç","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4834037761","2.031419847","MULTILINESTRING ((419138.52305417415 4592874.389388814, 419138.48147223203 4592874.585018418))"
-"276/2012","2012-07-12","2012","7","Dijous","11:15:00","Encalç","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "301/2012","2012-07-13","2012","7","Divendres","10:25:00","Fregament negatiu (mateix sentit)","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "277/2012","2012-07-13","2012","7","Divendres","18:30:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4901337997","2.0286803329","MULTILINESTRING ((418918.1811208113 4593624.32527673, 418918.18719441514 4593624.125368973))"
-"277/2012","2012-07-13","2012","7","Divendres","18:30:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "278/2012","2012-07-15","2012","7","Diumenge","22:45:00","Envestida","2","Sector Z","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "279/2012","2012-07-17","2012","7","Dimarts","09:10:00","Atropellament","3","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "280/2012","2012-07-17","2012","7","Dimarts","09:30:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "281/2012","2012-07-17","2012","7","Dimarts","13:50:00","Envestida","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "282/2012","2012-07-17","2012","7","Dimarts","14:00:00","Envestida","2","Ca n'Alzamora","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4809128677","2.0354414265","MULTILINESTRING ((419471.0764108223 4592594.140767574, 419471.2476144295 4592594.244156766))"
-"282/2012","2012-07-17","2012","7","Dimarts","14:00:00","Envestida","2","Ca n'Alzamora","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "284/2012","2012-07-18","2012","7","Dimecres","19:20:00","Col·lisió frontal","2","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "283/2012","2012-07-19","2012","7","Dijous","16:12:00","Xoc sense sortida de via","5","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "285/2012","2012-07-19","2012","7","Dijous","18:20:00","Altres (incendi, explosió, esllavissada, etc.)","1","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "286/2012","2012-07-21","2012","7","Dissabte","00:55:00","Fregament negatiu (mateix sentit)","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4987975055","2.0319366616","MULTILINESTRING ((419200.8138245256 4594583.125072817, 419200.7477660342 4594582.936297088))"
-"286/2012","2012-07-21","2012","7","Dissabte","00:55:00","Fregament negatiu (mateix sentit)","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "287/2012","2012-07-22","2012","7","Diumenge","00:25:00","Envestida","3","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "290/2012","2012-07-23","2012","7","Dilluns","07:50:00","Xoc sense sortida de via","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5012430988","2.0343426438","MULTILINESTRING ((419404.65564409265 4594852.394326157, 419404.6052921237 4594852.200768208))"
-"290/2012","2012-07-23","2012","7","Dilluns","07:50:00","Xoc sense sortida de via","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "289/2012","2012-07-23","2012","7","Dilluns","09:00:00","Fregament negatiu (mateix sentit)","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4959725436","2.0388078783","MULTILINESTRING ((419770.88484604855 4594263.063221565, 419770.7266947314 4594262.940795421))"
-"289/2012","2012-07-23","2012","7","Dilluns","09:00:00","Fregament negatiu (mateix sentit)","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "291/2012","2012-07-23","2012","7","Dilluns","15:00:00","Encalç","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4986425434","2.038152917","MULTILINESTRING ((419719.4369238328 4594559.93614834, 419719.431131777 4594560.13606445))"
-"291/2012","2012-07-23","2012","7","Dilluns","15:00:00","Encalç","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "288/2012","2012-07-24","2012","7","Dimarts","13:00:00","Atropellament","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4875475197","2.0354000831","MULTILINESTRING ((419476.0145997312 4593330.770001453, 419475.83639964147 4593330.860801938))"
-"288/2012","2012-07-24","2012","7","Dimarts","13:00:00","Atropellament","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "292/2012","2012-07-24","2012","7","Dimarts","18:00:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4983151173","2.0377797274","MULTILINESTRING ((419687.9374419196 4594524.113928078, 419687.8242558929 4594523.949037438))"
-"292/2012","2012-07-24","2012","7","Dimarts","18:00:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "293/2012","2012-07-25","2012","7","Dimecres","14:30:00","Encalç","3","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "294/2012","2012-07-26","2012","7","Dijous","14:30:00","Fregament negatiu (mateix sentit)","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "295/2012","2012-07-26","2012","7","Dijous","16:20:00","Encalç","3","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "296/2012","2012-07-27","2012","7","Divendres","07:10:00","Envestida","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4742699443","2.0330000058","MULTILINESTRING ((419259.185966254 4591858.962961168, 419258.98608833866 4591858.969948223))"
-"296/2012","2012-07-27","2012","7","Divendres","07:10:00","Envestida","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "298/2012","2012-07-27","2012","7","Divendres","15:15:00","Altres (incendi, explosió, esllavissada, etc.)","1","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "297/2012","2012-07-27","2012","7","Divendres","16:05:00","Xoc sense sortida de via","2","Can Solà","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.531845415","2.009393085","MULTILINESTRING ((417361.14677521284 4598273.446946626, 417361.2789669506 4598273.296862167))"
-"297/2012","2012-07-27","2012","7","Divendres","16:05:00","Xoc sense sortida de via","2","Can Solà","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "302/2012","2012-07-30","2012","7","Dilluns","10:19:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "303/2012","2012-07-30","2012","7","Dilluns","12:30:00","Xoc sense sortida de via","1","Ca n'Alzamora","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "304/2012","2012-07-31","2012","7","Dimarts","16:30:00","Envestida","3","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "299/2012","2012-07-31","2012","7","Dimarts","19:10:00","Xoc sense sortida de via","2","El Mercat","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4886957997","2.034798785","MULTILINESTRING ((419427.20439098583 4593458.94359119, 419427.0992546478 4593458.7734549185))"
-"299/2012","2012-07-31","2012","7","Dimarts","19:10:00","Xoc sense sortida de via","2","El Mercat","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "300/2012","2012-07-31","2012","7","Dimarts","20:42:00","Sortida de via amb caiguda, bolcada, xoc","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "305/2012","2012-08-02","2012","8","Dijous","06:20:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4892427148","2.0312174097","MULTILINESTRING ((419128.8580215617 4593522.82067667, 419128.86849541543 4593523.020402228))"
-"305/2012","2012-08-02","2012","8","Dijous","06:20:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "306/2012","2012-08-03","2012","8","Divendres","10:45:00","Xoc sense sortida de via","3","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "307/2012","2012-08-04","2012","8","Dissabte","05:20:00","Xoc sense sortida de via","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "310/2012","2012-08-05","2012","8","Diumenge","10:30:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "308/2012","2012-08-06","2012","8","Dilluns","05:35:00","Xoc sense sortida de via","2","Can Rosés","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "309/2012","2012-08-06","2012","8","Dilluns","09:00:00","Col·lisió frontal","2","Ca n'Alzamora","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4808815962","2.033719103","MULTILINESTRING ((419327.2768454632 4592592.411257097, 419327.3803272841 4592592.240109462))"
-"309/2012","2012-08-06","2012","8","Dilluns","09:00:00","Col·lisió frontal","2","Ca n'Alzamora","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "311/2012","2012-08-07","2012","8","Dimarts","11:50:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "312/2012","2012-08-08","2012","8","Dimecres","14:35:00","Sortida de via amb caiguda, bolcada, xoc","1","Plana del Castell","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "313/2012","2012-08-14","2012","8","Dimarts","12:45:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.49499725","2.0360734032","MULTILINESTRING ((419541.25572026696 4594157.244790481, 419541.45169368916 4594157.2847206425))"
-"313/2012","2012-08-14","2012","8","Dimarts","12:45:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "314/2012","2012-08-17","2012","8","Divendres","22:20:00","Envestida","2","Plana del Castell","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "315/2012","2012-08-20","2012","8","Dilluns","11:30:00","Xoc sense sortida de via","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5014581226","2.0336254435","MULTILINESTRING ((419345.06315143645 4594876.935306784, 419345.0125685818 4594876.741809045))"
-"315/2012","2012-08-20","2012","8","Dilluns","11:30:00","Xoc sense sortida de via","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "316/2012","2012-08-20","2012","8","Dilluns","12:00:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4887402064","2.0294869668","MULTILINESTRING ((418983.7692137323 4593468.652259454, 418983.7970516429 4593468.8503126055))"
-"316/2012","2012-08-20","2012","8","Dilluns","12:00:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "318/2012","2012-08-21","2012","8","Dimarts","11:30:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "317/2012","2012-08-21","2012","8","Dimarts","14:00:00","Xoc sense sortida de via","3","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4952950847","2.0304427769","MULTILINESTRING ((419071.8322736782 4594195.58177248, 419071.6323982376 4594195.588829975))"
-"317/2012","2012-08-21","2012","8","Dimarts","14:00:00","Xoc sense sortida de via","3","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "319/2012","2012-08-21","2012","8","Dimarts","14:00:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4952950847","2.0304427769","MULTILINESTRING ((419071.8322736782 4594195.58177248, 419071.6323982376 4594195.588829975))"
-"319/2012","2012-08-21","2012","8","Dimarts","14:00:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "321/2012","2012-08-24","2012","8","Divendres","09:45:00","Altres (incendi, explosió, esllavissada, etc.)","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4875146148","2.036851926","MULTILINESTRING ((419597.0411399414 4593325.721568012, 419597.12881992187 4593325.901324015))"
-"321/2012","2012-08-24","2012","8","Divendres","09:45:00","Altres (incendi, explosió, esllavissada, etc.)","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "320/2012","2012-08-24","2012","8","Divendres","14:00:00","Xoc sense sortida de via","1","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.5207102636","1.9990216838","MULTILINESTRING ((416481.7752268316 4597047.098274285, 416481.57523577556 4597047.1001657145))"
-"320/2012","2012-08-24","2012","8","Divendres","14:00:00","Xoc sense sortida de via","1","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "322/2012","2012-08-25","2012","8","Dissabte","11:50:00","Encalç","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "325/2012","2012-08-27","2012","8","Dilluns","09:40:00","Col·lisió frontal","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4851697055","2.0351290198","MULTILINESTRING ((419450.3746713852 4593067.178233451, 419450.3290285137 4593066.98351127))"
-"325/2012","2012-08-27","2012","8","Dilluns","09:40:00","Col·lisió frontal","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "323/2012","2012-08-27","2012","8","Dilluns","17:30:00","Atropellament","2","Sant Muç","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "326/2012","2012-08-28","2012","8","Dimarts","12:00:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.492833888","2.0306749172","MULTILINESTRING ((419088.1460910898 4593922.12175462, 419087.94612145296 4593922.125239492))"
-"326/2012","2012-08-28","2012","8","Dimarts","12:00:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "324/2012","2012-08-28","2012","8","Dimarts","12:50:00","Encalç","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5058119941","2.0361692478","MULTILINESTRING ((419562.75588883384 4595357.742003755, 419562.72138511174 4595357.939005008))"
-"324/2012","2012-08-28","2012","8","Dimarts","12:50:00","Encalç","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "327/2012","2012-08-28","2012","8","Dimarts","22:05:00","Fregament negatiu (mateix sentit)","2","Ca n'Alzamora","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "328/2012","2012-08-30","2012","8","Dijous","02:15:00","Xoc sense sortida de via","1","Sector Z","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "329/2012","2012-08-30","2012","8","Dijous","22:45:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
@@ -452,27 +332,19 @@
 "333/2012","2012-09-03","2012","9","Dilluns","20:20:00","Envestida","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "334/2012","2012-09-04","2012","9","Dimarts","12:00:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "335/2012","2012-09-04","2012","9","Dimarts","14:00:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4921278405","2.0309938743","MULTILINESTRING ((419113.7939153475 4593843.538991615, 419113.79042046337 4593843.339022153))"
-"335/2012","2012-09-04","2012","9","Dimarts","14:00:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "336/2012","2012-09-07","2012","9","Divendres","10:00:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4886472557","2.0311799641","MULTILINESTRING ((419124.99152156146 4593456.747276674, 419125.00199541537 4593456.947002229))"
-"336/2012","2012-09-07","2012","9","Divendres","10:00:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "337/2012","2012-09-07","2012","9","Divendres","12:20:00","Atropellament","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4996841041","2.032338417","MULTILINESTRING ((419235.44831853395 4594681.180844938, 419235.38219137845 4594680.992093252))"
-"337/2012","2012-09-07","2012","9","Divendres","12:20:00","Atropellament","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "338/2012","2012-09-11","2012","9","Dimarts","10:00:00","Fregament negatiu (mateix sentit)","2","Sant Jordi Parc","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "339/2012","2012-09-15","2012","9","Dissabte","19:00:00","Sortida de via amb caiguda, bolcada, xoc","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "354/2012","2012-09-16","2012","9","Diumenge","22:15:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4960823178","2.0311063719","MULTILINESTRING ((419128.1073784386 4594282.463723326, 419128.0969045847 4594282.26399777))"
-"354/2012","2012-09-16","2012","9","Diumenge","22:15:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "340/2012","2012-09-17","2012","9","Dilluns","04:50:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "341/2012","2012-09-17","2012","9","Dilluns","10:30:00","Fregament negatiu (mateix sentit)","2","Els Avets","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4892734614","2.0193558184","MULTILINESTRING ((418138.8175758614 4593537.51180528, 418138.6205678153 4593537.477340373))"
-"341/2012","2012-09-17","2012","9","Dilluns","10:30:00","Fregament negatiu (mateix sentit)","2","Els Avets","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "342/2012","2012-09-18","2012","9","Dimarts","10:20:00","Envestida","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "343/2012","2012-09-19","2012","9","Dimecres","07:15:00","Encalç","3","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "344/2012","2012-09-19","2012","9","Dimecres","09:00:00","Xoc sense sortida de via","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5035659483","2.0347303519","MULTILINESTRING ((419439.80708097987 4595109.743000393, 419439.93064130645 4595109.90026719))"
-"344/2012","2012-09-19","2012","9","Dimecres","09:00:00","Xoc sense sortida de via","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "345/2012","2012-09-20","2012","9","Dijous","12:20:00","Col·lisió frontal","2","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "346/2012","2012-09-21","2012","9","Divendres","11:45:00","Fregament negatiu (mateix sentit)","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5037865221","2.0399734946","MULTILINESTRING ((419877.8252372984 4595129.402299151, 419877.63804973103 4595129.472732201))"
-"346/2012","2012-09-21","2012","9","Divendres","11:45:00","Fregament negatiu (mateix sentit)","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "347/2012","2012-09-21","2012","9","Divendres","21:00:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4944055552","2.0382878469","MULTILINESTRING ((419725.4262113672 4594089.423510377, 419725.50211515615 4594089.608547172))"
-"347/2012","2012-09-21","2012","9","Divendres","21:00:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "348/2012","2012-09-22","2012","9","Dissabte","03:25:00","Fregament negatiu (mateix sentit)","9","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "349/2012","2012-09-23","2012","9","Diumenge","23:15:00","Sortida de via amb caiguda, bolcada, xoc","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "350/2012","2012-09-24","2012","9","Dilluns","09:24:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
@@ -480,43 +352,31 @@
 "352/2012","2012-09-24","2012","9","Dilluns","20:40:00","Col·lisió frontal","2","Sant Muç","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "353/2012","2012-09-25","2012","9","Dimarts","08:40:00","Atropellament","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "355/2012","2012-09-25","2012","9","Dimarts","17:35:00","Xoc sense sortida de via","1","Can Barceló - Vallespark","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.5333449021","1.9853409639","MULTILINESTRING ((415356.6839515603 4598463.227406513, 415356.63040208037 4598463.034708685))"
-"355/2012","2012-09-25","2012","9","Dimarts","17:35:00","Xoc sense sortida de via","1","Can Barceló - Vallespark","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "356/2012","2012-09-26","2012","9","Dimecres","07:10:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "357/2012","2012-09-26","2012","9","Dimecres","07:45:00","Fregament positiu (diferent sentit)","2","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5042459798","2.0141412856","MULTILINESTRING ((417722.3087819814 4595204.632972803, 417722.4366426418 4595204.786763738))"
-"357/2012","2012-09-26","2012","9","Dimecres","07:45:00","Fregament positiu (diferent sentit)","2","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "358/2012","2012-09-27","2012","9","Dijous","06:45:00","Atropellament","4","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4896463546","2.0376043692","MULTILINESTRING ((419662.6328910899 4593561.778054618, 419662.432921453 4593561.781539493))"
-"358/2012","2012-09-27","2012","9","Dijous","06:45:00","Atropellament","4","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "360/2012","2012-09-28","2012","9","Divendres","12:10:00","Altres (incendi, explosió, esllavissada, etc.)","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "359/2012","2012-09-28","2012","9","Divendres","12:50:00","Fregament negatiu (mateix sentit)","4","Sector Z","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "361/2012","2012-09-28","2012","9","Divendres","18:30:00","Xoc sense sortida de via","1","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4989921515","2.0399135027","MULTILINESTRING ((419866.8308099199 4594597.315326111, 419866.7972132266 4594597.118168149))"
-"361/2012","2012-09-28","2012","9","Divendres","18:30:00","Xoc sense sortida de via","1","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "362/2012","2012-09-29","2012","9","Dissabte","18:00:00","Sortida de via amb caiguda, bolcada, xoc","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "363/2012","2012-09-29","2012","9","Dissabte","19:35:00","Xoc sense sortida de via","5","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "364/2012","2012-10-01","2012","10","Dilluns","16:00:00","Sortida de via amb caiguda, bolcada, xoc","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.493717428","2.03610074","MULTILINESTRING ((419541.9785132707 4594015.083997889, 419542.12478436105 4594015.220397185))"
-"364/2012","2012-10-01","2012","10","Dilluns","16:00:00","Sortida de via amb caiguda, bolcada, xoc","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "365/2012","2012-10-02","2012","10","Dimarts","14:20:00","Col·lisió frontal","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "366/2012","2012-10-03","2012","10","Dimecres","11:00:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4954977333","2.0311047974","MULTILINESTRING ((419127.2487084536 4594217.564021753, 419127.23824460467 4594217.364295673))"
-"366/2012","2012-10-03","2012","10","Dimecres","11:00:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "367/2012","2012-10-04","2012","10","Dijous","14:50:00","Altres (incendi, explosió, esllavissada, etc.)","4","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4928433926","2.032345368","MULTILINESTRING ((419227.5961910898 4593921.61525462, 419227.3962214529 4593921.618739493))"
-"367/2012","2012-10-04","2012","10","Dijous","14:50:00","Altres (incendi, explosió, esllavissada, etc.)","4","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "368/2012","2012-10-06","2012","10","Dissabte","04:30:00","Múltiple","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "382/2012","2012-10-10","2012","10","Dimecres","13:15:00","Múltiple","5","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "369/2012","2012-10-13","2012","10","Dissabte","03:30:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "370/2012","2012-10-17","2012","10","Dimecres","19:30:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "371/2012","2012-10-18","2012","10","Dijous","11:45:00","Envestida","2","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "372/2012","2012-10-18","2012","10","Dijous","14:35:00","Col·lisió frontal","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4883580369","2.0322520997","MULTILINESTRING ((419214.23768193956 4593423.72697925, 419214.0384425861 4593423.744405668))"
-"372/2012","2012-10-18","2012","10","Dijous","14:35:00","Col·lisió frontal","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "373/2012","2012-10-19","2012","10","Divendres","09:00:00","Sortida de via amb caiguda, bolcada, xoc","1","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4741889365","2.0311625954","MULTILINESTRING ((419105.6664662536 4591851.686061168, 419105.4665883382 4591851.693048223))"
-"373/2012","2012-10-19","2012","10","Divendres","09:00:00","Sortida de via amb caiguda, bolcada, xoc","1","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "374/2012","2012-10-19","2012","10","Divendres","11:20:00","Sortida de via amb caiguda, bolcada, xoc","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "380/2012","2012-10-21","2012","10","Diumenge","06:20:00","Xoc sense sortida de via","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "375/2012","2012-10-21","2012","10","Diumenge","06:45:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5014581226","2.0336254435","MULTILINESTRING ((419345.06315143645 4594876.935306784, 419345.0125685818 4594876.741809045))"
-"375/2012","2012-10-21","2012","10","Diumenge","06:45:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "379/2012","2012-10-21","2012","10","Diumenge","21:40:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "381/2012","2012-10-23","2012","10","Dimarts","08:10:00","Encalç","3","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4742422353","2.0323846158","MULTILINESTRING ((419207.76816625404 4591856.461261167, 419207.5682883387 4591856.468248223))"
-"381/2012","2012-10-23","2012","10","Dimarts","08:10:00","Encalç","3","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "377/2012","2012-10-23","2012","10","Dimarts","11:47:00","Atropellament","3","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4888660601","2.027346015","MULTILINESTRING ((418805.204537266 4593484.830920085, 418805.2282163545 4593484.63232678))"
-"377/2012","2012-10-23","2012","10","Dimarts","11:47:00","Atropellament","3","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "378/2012","2012-10-23","2012","10","Dimarts","13:12:00","Xoc sense sortida de via","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "376/2012","2012-10-23","2012","10","Dimarts","20:05:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "384/2012","2012-10-27","2012","10","Dissabte","23:40:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
@@ -527,78 +387,56 @@
 "388/2012","2012-10-29","2012","10","Dilluns","18:30:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "389/2012","2012-10-30","2012","10","Dimarts","08:15:00","Encalç","4","Can Ximelis - D4","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "390/2012","2012-10-31","2012","10","Dimecres","12:40:00","Envestida","2","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5010680231","2.0308285212","MULTILINESTRING ((419111.14442986454 4594836.237713621, 419111.0847731527 4594836.046818159))"
-"390/2012","2012-10-31","2012","10","Dimecres","12:40:00","Envestida","2","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "391/2012","2012-10-31","2012","10","Dimecres","12:52:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "392/2012","2012-11-01","2012","11","Dijous","18:30:00","Atropellament","2","El Mercat","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "393/2012","2012-11-02","2012","11","Divendres","17:30:00","Atropellament","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4875757075","2.0365344983","MULTILINESTRING ((419570.6146565608 4593332.800882578, 419570.70854208124 4593332.977476771))"
-"393/2012","2012-11-02","2012","11","Divendres","17:30:00","Atropellament","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "394/2012","2012-11-03","2012","11","Dissabte","16:50:00","Sortida de via amb caiguda, bolcada, xoc","1","Can Ximelis - D4","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "415/2012","2012-11-04","2012","11","Diumenge","14:30:00","Atropellament","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "395/2012","2012-11-05","2012","11","Dilluns","14:20:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4947969334","2.0307465464","MULTILINESTRING ((419096.568066254 4594139.992261168, 419096.36818833865 4594139.999248223))"
-"395/2012","2012-11-05","2012","11","Dilluns","14:20:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "396/2012","2012-11-05","2012","11","Dilluns","18:20:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "399/2012","2012-11-06","2012","11","Dimarts","13:10:00","Col·lisió frontal","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "397/2012","2012-11-06","2012","11","Dimarts","14:50:00","Xoc sense sortida de via","1","Ca n'Alzamora","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "400/2012","2012-11-07","2012","11","Dimecres","06:32:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4906696934","2.0293808694","MULTILINESTRING ((418977.23063374613 4593683.067638832, 418977.4305116615 4593683.060651776))"
-"400/2012","2012-11-07","2012","11","Dimecres","06:32:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "401/2012","2012-11-07","2012","11","Dimecres","09:25:00","Fregament positiu (diferent sentit)","2","Sector Z","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "398/2012","2012-11-07","2012","11","Dimecres","13:50:00","Encalç","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "402/2012","2012-11-07","2012","11","Dimecres","17:10:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "403/2012","2012-11-08","2012","11","Dijous","09:10:00","Atropellament","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "404/2012","2012-11-11","2012","11","Diumenge","05:30:00","Xoc sense sortida de via","9","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4945973956","2.0371344746","MULTILINESTRING ((419629.34199685033 4594111.83422872, 419629.5134291337 4594111.937238295))"
-"404/2012","2012-11-11","2012","11","Diumenge","05:30:00","Xoc sense sortida de via","9","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "405/2012","2012-11-12","2012","11","Dilluns","07:58:00","Encalç","3","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "406/2012","2012-11-12","2012","11","Dilluns","18:30:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "407/2012","2012-11-13","2012","11","Dimarts","12:00:00","Simple","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4958047738","2.0301900726","MULTILINESTRING ((419051.27166940534 4594252.308076574, 419051.27572587394 4594252.508035433))"
-"407/2012","2012-11-13","2012","11","Dimarts","12:00:00","Simple","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "408/2012","2012-11-13","2012","11","Dimarts","13:30:00","Múltiple","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4854521282","2.0316262954","MULTILINESTRING ((419158.2614816445 4593101.606519497, 419158.306475526 4593101.801392661))"
-"408/2012","2012-11-13","2012","11","Dimarts","13:30:00","Múltiple","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "409/2012","2012-11-14","2012","11","Dimecres","10:00:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5017808275","2.0337906242","MULTILINESTRING ((419359.25060015323 4594912.608107872, 419359.1986335378 4594912.414977162))"
-"409/2012","2012-11-14","2012","11","Dimecres","10:00:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "412/2012","2012-11-15","2012","11","Dijous","10:00:00","Envestida","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4741889365","2.0311625954","MULTILINESTRING ((419105.6664662536 4591851.686061168, 419105.4665883382 4591851.693048223))"
-"412/2012","2012-11-15","2012","11","Dijous","10:00:00","Envestida","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "410/2012","2012-11-15","2012","11","Dijous","12:45:00","Col·lisió frontal","1","Sector Z","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4878433346","2.0415616882","MULTILINESTRING ((419990.63294471224 4593357.842334773, 419990.6902596163 4593358.033946364))"
-"410/2012","2012-11-15","2012","11","Dijous","12:45:00","Col·lisió frontal","1","Sector Z","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "411/2012","2012-11-15","2012","11","Dijous","16:01:00","Envestida","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "413/2012","2012-11-16","2012","11","Divendres","16:30:00","Xoc sense sortida de via","1","Sant Muç","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "414/2012","2012-11-17","2012","11","Dissabte","18:20:00","Xoc sense sortida de via","1","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4994984824","2.0438453549","MULTILINESTRING ((420195.6218943491 4594649.892770351, 420195.5975257987 4594649.694260466))"
-"414/2012","2012-11-17","2012","11","Dissabte","18:20:00","Xoc sense sortida de via","1","Ca n'Oriol","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "416/2012","2012-11-18","2012","11","Diumenge","15:00:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4993372415","2.0379458183","MULTILINESTRING ((419702.9983169626 4594637.254886222, 419703.01468928356 4594637.454214963))"
-"416/2012","2012-11-18","2012","11","Diumenge","15:00:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "417/2012","2012-11-19","2012","11","Dilluns","08:35:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "418/2012","2012-11-20","2012","11","Dimarts","10:00:00","Xoc sense sortida de via","4","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "419/2012","2012-11-21","2012","11","Dimecres","10:00:00","Sortida de via amb caiguda, bolcada, xoc","1","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4883104328","2.0251969458","MULTILINESTRING ((418625.20382952795 4593425.011097548, 418625.0358393707 4593425.119630064))"
-"419/2012","2012-11-21","2012","11","Dimecres","10:00:00","Sortida de via amb caiguda, bolcada, xoc","1","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "420/2012","2012-11-21","2012","11","Dimecres","19:05:00","Envestida","2","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "421/2012","2012-11-22","2012","11","Dijous","12:00:00","Envestida","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "422/2012","2012-11-22","2012","11","Dijous","12:50:00","Col·lisió frontal","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4911600623","2.0385835933","MULTILINESTRING ((419746.1475289926 4593728.823818687, 419746.1414053233 4593729.023724918))"
-"422/2012","2012-11-22","2012","11","Dijous","12:50:00","Col·lisió frontal","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "423/2012","2012-11-22","2012","11","Dijous","16:45:00","Xoc sense sortida de via","2","El Mercat","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "424/2012","2012-11-25","2012","11","Diumenge","04:50:00","Encalç","3","El Mercat","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4888867688","2.0361415234","MULTILINESTRING ((419539.3883680125 4593478.853760059, 419539.5681240166 4593478.766080079))"
-"424/2012","2012-11-25","2012","11","Diumenge","04:50:00","Encalç","3","El Mercat","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "425/2012","2012-11-25","2012","11","Diumenge","16:15:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4996510784","2.032768805","MULTILINESTRING ((419271.2715302019 4594676.921120032, 419271.32130693586 4594677.11482671))"
-"425/2012","2012-11-25","2012","11","Diumenge","16:15:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "426/2012","2012-11-26","2012","11","Dilluns","11:00:00","Sortida de via amb caiguda, bolcada, xoc","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "427/2012","2012-11-26","2012","11","Dilluns","13:00:00","Fregament negatiu (mateix sentit)","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "428/2012","2012-11-26","2012","11","Dilluns","13:45:00","Fregament positiu (diferent sentit)","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5026039775","2.0427037294","MULTILINESTRING ((420104.0829086118 4594995.542363301, 420104.20021148253 4594995.704351068))"
-"428/2012","2012-11-26","2012","11","Dilluns","13:45:00","Fregament positiu (diferent sentit)","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "429/2012","2012-11-27","2012","11","Dimarts","10:45:00","Fregament negatiu (mateix sentit)","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4628764173","2.0069557178","MULTILINESTRING ((417070.0377804147 4590618.697745259, 417069.8390072195 4590618.675627011))"
-"429/2012","2012-11-27","2012","11","Dimarts","10:45:00","Fregament negatiu (mateix sentit)","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "430/2012","2012-11-29","2012","11","Dijous","06:30:00","Fregament negatiu (mateix sentit)","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "431/2012","2012-11-29","2012","11","Dijous","07:25:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "432/2012","2012-11-29","2012","11","Dijous","09:20:00","Fregament negatiu (mateix sentit)","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "433/2012","2012-11-29","2012","11","Dijous","17:50:00","Múltiple","4","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "434/2012","2012-11-30","2012","11","Divendres","07:45:00","Encalç","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "435/2012","2012-11-30","2012","11","Divendres","13:45:00","Xoc sense sortida de via","1","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4802852802","2.02654024","MULTILINESTRING ((418727.29662442766 4592532.769467426, 418727.160999237 4592532.916456566))"
-"435/2012","2012-11-30","2012","11","Divendres","13:45:00","Xoc sense sortida de via","1","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "436/2012","2012-12-01","2012","12","Dissabte","11:06:00","Xoc sense sortida de via","5","Sector Z","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "437/2012","2012-12-01","2012","12","Dissabte","14:38:00","Encalç","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "438/2012","2012-12-03","2012","12","Dilluns","00:20:00","Xoc sense sortida de via","1","El Mercat","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4860101959","2.040091214","MULTILINESTRING ((419865.55786801234 4593155.826860059, 419865.7376240163 4593155.739180079))"
-"438/2012","2012-12-03","2012","12","Dilluns","00:20:00","Xoc sense sortida de via","1","El Mercat","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "439/2012","2012-12-03","2012","12","Dilluns","07:55:00","Simple","4","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4906696934","2.0293808694","MULTILINESTRING ((418977.23063374613 4593683.067638832, 418977.4305116615 4593683.060651776))"
-"439/2012","2012-12-03","2012","12","Dilluns","07:55:00","Simple","4","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "440/2012","2012-12-03","2012","12","Dilluns","12:00:00","Atropellament","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.501962185","2.0338892291","MULTILINESTRING ((419367.75334622693 4594932.62137506, 419367.6053949691 4594932.486800082))"
-"440/2012","2012-12-03","2012","12","Dilluns","12:00:00","Atropellament","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "442/2012","2012-12-04","2012","12","Dimarts","07:55:00","Xoc sense sortida de via","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "441/2012","2012-12-04","2012","12","Dimarts","17:10:00","Múltiple","3","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "443/2012","2012-12-04","2012","12","Dimarts","18:20:00","Col·lisió frontal","4","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
@@ -609,19 +447,14 @@
 "448/2012","2012-12-13","2012","12","Dijous","21:20:00","Col·lisió frontal","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "449/2012","2012-12-14","2012","12","Divendres","16:50:00","Atropellament","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "450/2012","2012-12-14","2012","12","Divendres","18:30:00","Encalç","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4938400446","2.0384255292","MULTILINESTRING ((419736.2624282271 4594026.5047446275, 419736.25463763624 4594026.704592836))"
-"450/2012","2012-12-14","2012","12","Divendres","18:30:00","Encalç","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "453/2012","2012-12-15","2012","12","Dissabte","15:40:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "451/2012","2012-12-15","2012","12","Dissabte","20:25:00","Xoc sense sortida de via","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "452/2012","2012-12-16","2012","12","Diumenge","04:40:00","Xoc sense sortida de via","8","El Mercat","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4888517357","2.0362305061","MULTILINESTRING ((419546.7731680125 4593474.881560057, 419546.9529240165 4593474.793880078))"
-"452/2012","2012-12-16","2012","12","Diumenge","04:40:00","Xoc sense sortida de via","8","El Mercat","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "454/2012","2012-12-18","2012","12","Dimarts","08:15:00","Encalç","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "457/2012","2012-12-18","2012","12","Dimarts","08:15:00","Xoc sense sortida de via","4","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "455/2012","2012-12-18","2012","12","Dimarts","12:08:00","Múltiple","3","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4959679868","2.0301935813","MULTILINESTRING ((419051.76776940544 4594270.424876574, 419051.771825874 4594270.6248354325))"
-"455/2012","2012-12-18","2012","12","Dimarts","12:08:00","Múltiple","3","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "456/2012","2012-12-19","2012","12","Dimecres","13:40:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5006443244","2.0354299642","MULTILINESTRING ((419494.6152600274 4594784.710875718, 419494.6636467034 4594784.904934289))"
-"456/2012","2012-12-19","2012","12","Dimecres","13:40:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "458/2012","2012-12-20","2012","12","Dijous","09:35:00","Fregament negatiu (mateix sentit)","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4878432848","2.0397536051","MULTILINESTRING ((419839.7392436128 4593359.508298013, 419839.70689148386 4593359.705664019))"
-"458/2012","2012-12-20","2012","12","Dijous","09:35:00","Fregament negatiu (mateix sentit)","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "459/2012","2012-12-21","2012","12","Divendres","22:00:00","Sortida de via amb caiguda, bolcada, xoc","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "460/2012","2012-12-22","2012","12","Dissabte","18:20:00","Xoc sense sortida de via","1","Plana de Can Bertran","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "461/2012","2012-12-22","2012","12","Dissabte","21:50:00","Fregament positiu (diferent sentit)","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,

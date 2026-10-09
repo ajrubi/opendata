@@ -3,13 +3,10 @@
 "2/2019","2019-01-04","2019","1","Divendres","13:11:00","Fregament negatiu (mateix sentit)","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "3/2019","2019-01-04","2019","1","Divendres","23:50:00","Xoc sense sortida de via","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "4/2019","2019-01-05","2019","1","Dissabte","05:20:00","Envestida","2","Sant Jordi Parc","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4918867744","2.0183735477","MULTILINESTRING ((418060.11193134147 4593828.535260361, 418059.9169417887 4593828.579747149))"
-"4/2019","2019-01-05","2019","1","Dissabte","05:20:00","Envestida","2","Sant Jordi Parc","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "5/2019","2019-01-05","2019","1","Dissabte","09:35:00","Envestida","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "6/2019","2019-01-05","2019","1","Dissabte","18:45:00","Col·lisió frontal","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4878433346","2.0415616882","MULTILINESTRING ((419990.63294471224 4593357.842334773, 419990.6902596163 4593358.033946364))"
-"6/2019","2019-01-05","2019","1","Dissabte","18:45:00","Col·lisió frontal","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "7/2019","2019-01-06","2019","1","Diumenge","18:00:00","Envestida","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "8/2019","2019-01-07","2019","1","Dilluns","07:00:00","Fregament negatiu (mateix sentit)","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4741889365","2.0311625954","MULTILINESTRING ((419105.6664662536 4591851.686061168, 419105.4665883382 4591851.693048223))"
-"8/2019","2019-01-07","2019","1","Dilluns","07:00:00","Fregament negatiu (mateix sentit)","2","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "9/2019","2019-01-07","2019","1","Dilluns","13:00:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "10/2019","2019-01-07","2019","1","Dilluns","18:00:00","Xoc sense sortida de via","3","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "11/2019","2019-01-08","2019","1","Dimarts","16:50:00","Xoc sense sortida de via","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
@@ -20,9 +17,7 @@
 "16/2019","2019-01-10","2019","1","Dijous","17:30:00","Fregament negatiu (mateix sentit)","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "17/2019","2019-01-11","2019","1","Divendres","10:45:00","Envestida","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "18/2019","2019-01-11","2019","1","Divendres","17:03:00","Fregament negatiu (mateix sentit)","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.497743501","2.0367285588","MULTILINESTRING ((419599.53208119306 4594461.576675308, 419599.3411082572 4594461.51726708))"
-"18/2019","2019-01-11","2019","1","Divendres","17:03:00","Fregament negatiu (mateix sentit)","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "19/2019","2019-01-11","2019","1","Divendres","17:30:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.497743501","2.0367285588","MULTILINESTRING ((419599.53208119306 4594461.576675308, 419599.3411082572 4594461.51726708))"
-"19/2019","2019-01-11","2019","1","Divendres","17:30:00","Xoc sense sortida de via","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "20/2019","2019-01-13","2019","1","Diumenge","10:30:00","Fregament negatiu (mateix sentit)","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "21/2019","2019-01-13","2019","1","Diumenge","20:45:00","Xoc sense sortida de via","3","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "22/2019","2019-01-14","2019","1","Dilluns","07:40:00","Fregament positiu (diferent sentit)","3","Can Serrafossà - La Perla","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
@@ -33,21 +28,16 @@
 "27/2019","2019-01-17","2019","1","Dijous","21:30:00","Xoc sense sortida de via","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "28/2019","2019-01-18","2019","1","Divendres","10:05:00","Envestida","3","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "29/2019","2019-01-18","2019","1","Divendres","20:42:00","Encalç","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4906224291","2.0271158601","MULTILINESTRING ((418788.0983143569 4593679.925852137, 418788.2958524759 4593679.957136181))"
-"29/2019","2019-01-18","2019","1","Divendres","20:42:00","Encalç","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "30/2019","2019-01-19","2019","1","Dissabte","14:50:00","Múltiple","6","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4941544891","2.0365275777","MULTILINESTRING ((419578.3213652048 4594063.281568868, 419578.1214869397 4594063.274591824))"
-"30/2019","2019-01-19","2019","1","Dissabte","14:50:00","Múltiple","6","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "31/2019","2019-01-20","2019","1","Diumenge","04:00:00","Xoc sense sortida de via","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "32/2019","2019-01-20","2019","1","Diumenge","07:00:00","Xoc sense sortida de via","1","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "33/2019","2019-01-20","2019","1","Diumenge","08:45:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "34/2019","2019-01-20","2019","1","Diumenge","14:02:00","Encalç","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4948157961","2.038359038","MULTILINESTRING ((419731.9169011865 4594134.895366689, 419731.90930158197 4594135.0952222515))"
-"34/2019","2019-01-20","2019","1","Diumenge","14:02:00","Encalç","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "35/2019","2019-01-23","2019","1","Dimecres","07:35:00","Atropellament","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "36/2019","2019-01-23","2019","1","Dimecres","16:15:00","Xoc sense sortida de via","1","Sant Muç","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "37/2019","2019-01-24","2019","1","Dijous","07:40:00","Fregament negatiu (mateix sentit)","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "38/2019","2019-01-24","2019","1","Dijous","12:00:00","Atropellament","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4938400446","2.0384255292","MULTILINESTRING ((419736.2624282271 4594026.5047446275, 419736.25463763624 4594026.704592836))"
-"38/2019","2019-01-24","2019","1","Dijous","12:00:00","Atropellament","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "39/2019","2019-01-26","2019","1","Dissabte","11:20:00","Sortida de via amb caiguda, bolcada, xoc","2","Can Solà","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5309672091","2.0093616766","MULTILINESTRING ((417357.53733166575 4598175.980019765, 417357.41237555427 4598175.823859684))"
-"39/2019","2019-01-26","2019","1","Dissabte","11:20:00","Sortida de via amb caiguda, bolcada, xoc","2","Can Solà","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "40/2019","2019-01-27","2019","1","Diumenge","19:20:00","Altres (incendi, explosió, esllavissada, etc.)","1","Sant Muç","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "41/2019","2019-01-30","2019","1","Dimecres","07:10:00","Envestida","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "42/2019","2019-01-31","2019","1","Dijous","16:00:00","Atropellament","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
@@ -56,15 +46,12 @@
 "45/2019","2019-02-01","2019","2","Divendres","10:20:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "46/2019","2019-02-01","2019","2","Divendres","18:30:00","Encalç","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "47/2019","2019-02-01","2019","2","Divendres","19:15:00","Encalç","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4728300929","2.0184881435","MULTILINESTRING ((418045.58159940294 4591712.859433899, 418045.5602325372 4591712.660578532))"
-"47/2019","2019-02-01","2019","2","Divendres","19:15:00","Encalç","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "48/2019","2019-02-02","2019","2","Dissabte","09:25:00","Encalç","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "49/2019","2019-02-02","2019","2","Dissabte","13:00:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "50/2019","2019-02-02","2019","2","Dissabte","16:50:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "51/2019","2019-02-04","2019","2","Dilluns","10:45:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "52/2019","2019-02-04","2019","2","Dilluns","12:00:00","Xoc sense sortida de via","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4856562759","2.0342216796","MULTILINESTRING ((419375.23153997224 4593122.042824281, 419375.18315329636 4593121.84876571))"
-"52/2019","2019-02-04","2019","2","Dilluns","12:00:00","Xoc sense sortida de via","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "53/2019","2019-02-04","2019","2","Dilluns","15:00:00","Fregament negatiu (mateix sentit)","3","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4876969794","2.0294172293","MULTILINESTRING ((418976.6755908997 4593353.095639896, 418976.64775453275 4593352.897586526))"
-"53/2019","2019-02-04","2019","2","Dilluns","15:00:00","Fregament negatiu (mateix sentit)","3","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "54/2019","2019-02-05","2019","2","Dimarts","12:35:00","Múltiple","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "55/2019","2019-02-06","2019","2","Dimecres","16:50:00","Sortida de via amb caiguda, bolcada, xoc","1","Can Serrafossà - La Perla","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "56/2019","2019-02-08","2019","2","Divendres","10:30:00","Encalç","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
@@ -77,91 +64,67 @@
 "63/2019","2019-02-11","2019","2","Dilluns","18:10:00","Xoc sense sortida de via","1","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "64/2019","2019-02-11","2019","2","Dilluns","18:31:00","Atropellament","2","El Mercat","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "65/2019","2019-02-13","2019","2","Dimecres","12:40:00","Xoc sense sortida de via","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4969883863","2.0328589914","MULTILINESTRING ((419275.5327020102 4594381.417582414, 419275.5016360135 4594381.220009884))"
-"65/2019","2019-02-13","2019","2","Dimecres","12:40:00","Xoc sense sortida de via","1","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "66/2019","2019-02-13","2019","2","Dimecres","16:30:00","Col·lisió frontal","2","Can Rosés","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.5077531664","2.0379268487","MULTILINESTRING ((419711.89798370865 4595571.781432657, 419711.74344494473 4595571.654476875))"
-"66/2019","2019-02-13","2019","2","Dimecres","16:30:00","Col·lisió frontal","2","Can Rosés","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "67/2019","2019-02-14","2019","2","Dijous","09:02:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "68/2019","2019-02-14","2019","2","Dijous","09:26:00","Sortida de via amb caiguda, bolcada, xoc","0","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "69/2019","2019-02-16","2019","2","Dissabte","15:45:00","Sortida de via amb caiguda, bolcada, xoc","2","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.5293061523","1.9977261922","MULTILINESTRING ((416384.56823486503 4598002.738917329, 416384.7332798202 4598002.625956438))"
-"69/2019","2019-02-16","2019","2","Dissabte","15:45:00","Sortida de via amb caiguda, bolcada, xoc","2","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "70/2019","2019-02-16","2019","2","Dissabte","15:50:00","Atropellament","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "71/2019","2019-02-17","2019","2","Diumenge","11:47:00","Encalç","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "72/2019","2019-02-18","2019","2","Dilluns","14:00:00","Xoc sense sortida de via","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "73/2019","2019-02-19","2019","2","Dimarts","12:05:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4941719911","2.0335792489","MULTILINESTRING ((419332.1863985457 4594068.056599731, 419332.09559806087 4594067.878399641))"
-"73/2019","2019-02-19","2019","2","Dimarts","12:05:00","Encalç","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "74/2019","2019-02-19","2019","2","Dimarts","17:40:00","Fregament positiu (diferent sentit)","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "75/2019","2019-02-20","2019","2","Dimecres","15:00:00","Sortida de via amb caiguda, bolcada, xoc","1","Can Ximelis - D4","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "76/2019","2019-02-20","2019","2","Dimecres","18:40:00","Fregament negatiu (mateix sentit)","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "77/2019","2019-02-20","2019","2","Dimecres","21:15:00","Col·lisió frontal","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "78/2019","2019-02-22","2019","2","Divendres","12:35:00","Envestida","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "79/2019","2019-02-23","2019","2","Dissabte","05:30:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.4906686711","2.0295508025","MULTILINESTRING ((418991.4147337463 4593682.794938832, 418991.6146116617 4593682.787951777))"
-"79/2019","2019-02-23","2019","2","Dissabte","05:30:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "80/2019","2019-02-23","2019","2","Dissabte","19:50:00","Col·lisió frontal","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "81/2019","2019-02-25","2019","2","Dilluns","06:50:00","Atropellament","2","Les Torres","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "82/2019","2019-02-25","2019","2","Dilluns","13:30:00","Xoc sense sortida de via","1","Can Barceló - Vallespark","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "83/2019","2019-02-25","2019","2","Dilluns","13:30:00","Xoc sense sortida de via","1","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4633087459","2.0104871297","MULTILINESTRING ((417365.36574551376 4590663.398243408, 417365.4392940182 4590663.212257879))"
-"83/2019","2019-02-25","2019","2","Dilluns","13:30:00","Xoc sense sortida de via","1","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "84/2019","2019-02-25","2019","2","Dilluns","18:06:00","Atropellament","2","Les Torres","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4843009737","2.0333832201","MULTILINESTRING ((419303.51131982217 4592972.1625553025, 419303.5462930963 4592972.359473739))"
-"84/2019","2019-02-25","2019","2","Dilluns","18:06:00","Atropellament","2","Les Torres","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "85/2019","2019-02-26","2019","2","Dimarts","07:55:00","Envestida","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "86/2019","2019-02-26","2019","2","Dimarts","08:19:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "87/2019","2019-02-26","2019","2","Dimarts","11:45:00","Xoc sense sortida de via","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5014309779","2.0458156365","MULTILINESTRING ((420362.52094763366 4594862.558098629, 420362.3325635115 4594862.490931504))"
-"87/2019","2019-02-26","2019","2","Dimarts","11:45:00","Xoc sense sortida de via","2","Ca n'Oriol","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "88/2019","2019-02-26","2019","2","Dimarts","12:15:00","Sortida de via amb caiguda, bolcada, xoc","1","Can Vallhonrat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "89/2019","2019-02-27","2019","2","Dimecres","09:45:00","Xoc sense sortida de via","1","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.5162386252","2.0022157098","MULTILINESTRING ((416742.3765227519 4596547.640782252, 416742.51589700254 4596547.497343004))"
-"89/2019","2019-02-27","2019","2","Dimecres","09:45:00","Xoc sense sortida de via","1","Castellnou - Can Mir","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "90/2019","2019-02-27","2019","2","Dimecres","12:10:00","Atropellament","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "91/2019","2019-02-27","2019","2","Dimecres","16:28:00","Fregament negatiu (mateix sentit)","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4864722781","2.0417166757","MULTILINESTRING ((420001.8862789979 4593205.482622081, 420001.9402719971 4593205.675196108))"
-"91/2019","2019-02-27","2019","2","Dimecres","16:28:00","Fregament negatiu (mateix sentit)","2","Sector Z","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "92/2019","2019-02-27","2019","2","Dimecres","21:20:00","Envestida","2","El Mercat","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4864101448","2.0389806304","MULTILINESTRING ((419773.33731516905 4593201.259156756, 419773.5170868919 4593201.171509009))"
-"92/2019","2019-02-27","2019","2","Dimecres","21:20:00","Envestida","2","El Mercat","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "93/2019","2019-02-28","2019","2","Dijous","09:40:00","Xoc sense sortida de via","3","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "98/2019","2019-03-01","2019","3","Divendres","12:55:00","Encalç","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "94/2019","2019-03-01","2019","3","Divendres","16:20:00","Xoc sense sortida de via","1","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "95/2019","2019-03-01","2019","3","Divendres","17:00:00","Xoc sense sortida de via","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4859039617","2.0338821796","MULTILINESTRING ((419347.1530848084 4593149.662476425, 419347.19124641124 4593149.8588018995))"
-"95/2019","2019-03-01","2019","3","Divendres","17:00:00","Xoc sense sortida de via","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "96/2019","2019-03-02","2019","3","Dissabte","05:50:00","Xoc sense sortida de via","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Nit (22 a 06)","41.5009681313","2.0342421305","MULTILINESTRING ((419395.9255440933 4594821.960826157, 419395.8751921243 4594821.767268208))"
-"96/2019","2019-03-02","2019","3","Dissabte","05:50:00","Xoc sense sortida de via","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "97/2019","2019-03-02","2019","3","Dissabte","17:05:00","Xoc sense sortida de via","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "99/2019","2019-03-03","2019","3","Diumenge","04:50:00","Xoc sense sortida de via","3","Ca n'Alzamora","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "100/2019","2019-03-05","2019","3","Dimarts","15:00:00","Xoc sense sortida de via","2","25 de Setembre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "101/2019","2019-03-06","2019","3","Dimecres","16:00:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4915531049","2.0339360351","MULTILINESTRING ((419358.74121761596 4593776.809083275, 419358.60739015474 4593776.9577110335))"
-"101/2019","2019-03-06","2019","3","Dimecres","16:00:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "103/2019","2019-03-06","2019","3","Dimecres","18:24:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.4958324827","2.0318920572","MULTILINESTRING ((419193.37740845344 4594253.992221752, 419193.36694460444 4594253.792495671))"
-"103/2019","2019-03-06","2019","3","Dimecres","18:24:00","Xoc sense sortida de via","1","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "102/2019","2019-03-07","2019","3","Dijous","07:54:00","Atropellament","2","Sant Jordi Parc","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "104/2019","2019-03-08","2019","3","Divendres","10:50:00","Sortida de via amb caiguda, bolcada, xoc","4","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "105/2019","2019-03-08","2019","3","Divendres","17:40:00","Fregament negatiu (mateix sentit)","3","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "106/2019","2019-03-10","2019","3","Diumenge","00:58:00","Múltiple","3","Can Fatjó","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "107/2019","2019-03-10","2019","3","Diumenge","13:15:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4941719911","2.0335792489","MULTILINESTRING ((419332.1863985457 4594068.056599731, 419332.09559806087 4594067.878399641))"
-"107/2019","2019-03-10","2019","3","Diumenge","13:15:00","Envestida","2","Centre","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "108/2019","2019-03-11","2019","3","Dilluns","08:30:00","Atropellament","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4871265809","2.0365340132","MULTILINESTRING ((419570.15469973057 4593282.981801454, 419569.97649964073 4593283.072601939))"
-"108/2019","2019-03-11","2019","3","Dilluns","08:30:00","Atropellament","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "109/2019","2019-03-12","2019","3","Dimarts","13:50:00","Col·lisió frontal","3","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.508543535","2.0111361319","MULTILINESTRING ((417477.09536032565 4595684.764294061, 417476.95198043407 4595684.624858747))"
-"109/2019","2019-03-12","2019","3","Dimarts","13:50:00","Col·lisió frontal","3","Sant Muç","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "110/2019","2019-03-13","2019","3","Dimecres","13:50:00","Col·lisió frontal","2","Can Fatjó","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "111/2019","2019-03-15","2019","3","Divendres","07:05:00","Xoc sense sortida de via","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "112/2019","2019-03-15","2019","3","Divendres","09:00:00","Xoc sense sortida de via","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4924687271","2.0366489257","MULTILINESTRING ((419586.2313264813 4593875.916310331, 419586.2997353083 4593876.104247109))"
-"112/2019","2019-03-15","2019","3","Divendres","09:00:00","Xoc sense sortida de via","2","Plana de Can Bertran","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "113/2019","2019-03-15","2019","3","Divendres","14:15:00","Fregament negatiu (mateix sentit)","2","Can Fatjó","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "114/2019","2019-03-15","2019","3","Divendres","21:33:00","Envestida","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "115/2019","2019-03-16","2019","3","Dissabte","02:50:00","Envestida","2","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Nit (22 a 06)",,,
 "116/2019","2019-03-16","2019","3","Dissabte","17:30:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "117/2019","2019-03-17","2019","3","Diumenge","11:35:00","Fregament negatiu (mateix sentit)","4","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4878091238","2.0382595848","MULTILINESTRING ((419714.869691404 4593357.15805652, 419715.05095520546 4593357.242575359))"
-"117/2019","2019-03-17","2019","3","Diumenge","11:35:00","Fregament negatiu (mateix sentit)","4","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "120/2019","2019-03-19","2019","3","Dimarts","09:30:00","Xoc sense sortida de via","1","Sant Jordi Parc","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4904966654","2.0195472185","MULTILINESTRING ((418156.1437462496 4593673.077222452, 418156.329161666 4593673.152196602))"
-"120/2019","2019-03-19","2019","3","Dimarts","09:30:00","Xoc sense sortida de via","1","Sant Jordi Parc","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "118/2019","2019-03-19","2019","3","Dimarts","14:05:00","Col·lisió frontal","2","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "119/2019","2019-03-19","2019","3","Dimarts","16:20:00","Xoc sense sortida de via","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "121/2019","2019-03-20","2019","3","Dimecres","12:45:00","Envestida","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "122/2019","2019-03-20","2019","3","Dimecres","19:00:00","Envestida","2","Zona Desconeguda","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "123/2019","2019-03-22","2019","3","Divendres","17:48:00","Col·lisió frontal","2","Sant Muç","818460009","Ajuntament de Rubí","Tarda (14 a 22)","41.5080172026","2.0142346424","MULTILINESTRING ((417734.8391291502 4595623.3195791645, 417735.0375722002 4595623.294672219))"
-"123/2019","2019-03-22","2019","3","Divendres","17:48:00","Col·lisió frontal","2","Sant Muç","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "124/2019","2019-03-24","2019","3","Diumenge","12:20:00","Xoc sense sortida de via","3","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4861066399","2.0375456564","MULTILINESTRING ((419653.34843797114 4593168.809083893, 419653.16791729495 4593168.895178523))"
-"124/2019","2019-03-24","2019","3","Diumenge","12:20:00","Xoc sense sortida de via","3","El Progrés - Rubí 2000","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "125/2019","2019-03-24","2019","3","Diumenge","16:24:00","Atropellament","2","Centre","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "126/2019","2019-03-25","2019","3","Dilluns","09:50:00","Col·lisió frontal","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)","41.4886957997","2.034798785","MULTILINESTRING ((419427.20439098583 4593458.94359119, 419427.0992546478 4593458.7734549185))"
-"126/2019","2019-03-25","2019","3","Dilluns","09:50:00","Col·lisió frontal","2","El Mercat","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "127/2019","2019-03-26","2019","3","Dimarts","14:25:00","Xoc sense sortida de via","3","Zona Nord - La Serreta","818460009","Ajuntament de Rubí","Tarda (14 a 22)",,,
 "128/2019","2019-03-27","2019","3","Dimecres","07:00:00","Atropellament","2","Can Rosés","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
 "129/2019","2019-03-27","2019","3","Dimecres","07:25:00","Múltiple","3","Zona Desconeguda","818460009","Ajuntament de Rubí","Matí (06 a 14)",,,
